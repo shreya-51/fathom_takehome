@@ -1,0 +1,21 @@
+Here are the story arcs from the script:
+
+1. Label: Hurricane Sarah
+   Description: A powerful hurricane is heading towards Georgia and the Carolinas, threatening to cause major damage.
+   Characters: C.J., Josh, Leo
+   Themes: Disaster response, government preparedness
+
+2. Label: Teamsters Strike
+   Description: The Teamsters union is threatening to go on strike at midnight, which could cripple the country.
+   Characters: Leo, C.J., Sam, Josh
+   Themes: Labor relations, political negotiation
+
+3. Label: Standoff in McClane, Idaho
+   Description: The government is planning a siege on a group of armed survivalists who are holding hostages in a farmhouse.
+   Characters: Toby, Mandy, Josh
+   Themes: Civil liberties, government overreach
+
+4. Label: State Dinner for the President of Indonesia
+   Description: The White House is hosting a state dinner for the President of Indonesia while dealing with the other crises.
+   Characters: Bartlet, Siguto, Toby, Sam, Josh
+   Themes: Diplomacy, cultural differences

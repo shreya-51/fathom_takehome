@@ -1,0 +1,28 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "Sam's Relationship with a Call Girl",
+    "description": "Sam Seaborn is revealed to be in a relationship with a woman who is later discovered to be a call girl. This causes concern among the senior staff, particularly C.J., about the potential political fallout.",
+    "characters": ["Sam Seaborn", "C.J. Cregg"],
+    "themes": ["ethics", "reputation", "discretion"]
+  },
+  {
+    "label": "The President's Response to the Airplane Attack",
+    "description": "President Bartlet struggles with how to respond to the downing of an American airplane, weighing the desire for a proportional response against the need for a stronger message. This leads to tensions within the national security team.",
+    "characters": ["President Bartlet", "Leo McGarry", "Admiral Fitzwallace"],
+    "themes": ["foreign policy", "military action", "decision-making"]
+  },
+  {
+    "label": "Charlie Young's Backstory and Hiring",
+    "description": "Charlie Young, a young black man, applies for a messenger job at the White House but is instead offered the position of the President's personal aide. This raises some concerns about the optics, which Josh and Leo address.",
+    "characters": ["Charlie Young", "Josh Lyman", "Leo McGarry"],
+    "themes": ["diversity", "opportunity", "personal responsibility"]
+  },
+  {
+    "label": "Congressman Bertram Coles' Threat Against the President",
+    "description": "Congressman Bertram Coles makes a threatening statement against the President, which the senior staff must decide how to respond to.",
+    "characters": ["Bertram Coles", "Toby Ziegler", "Leo McGarry"],
+    "themes": ["political tensions", "abuse of power", "loyalty"]
+  }
+]

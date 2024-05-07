@@ -1,0 +1,22 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "Nomination of Supreme Court Justice",
+    "description": "The White House staff works to nominate and confirm a new Supreme Court Justice, facing challenges along the way.",
+    "characters": ["President Bartlet", "Josh", "Toby", "Sam", "C.J.", "Mandy", "Leo"],
+    "themes": ["politics", "law", "ethics", "privacy rights"]
+  },
+  {
+    "label": "Allegations of Drug Use in the White House",
+    "description": "Congressman Lillienfield makes accusations that White House staffers regularly use illegal drugs, causing a crisis for the administration.",
+    "characters": ["Josh", "Toby", "Mandy", "Leo"],
+    "themes": ["scandal", "ethics", "drug use"]
+  },
+  {
+    "label": "Bartlet's Consideration of Mendoza",
+    "description": "President Bartlet reconsiders his initial Supreme Court nominee, Judge Harrison, and decides to nominate Judge Mendoza instead.",
+    "characters": ["President Bartlet", "Toby", "Sam", "Mendoza", "Harrison"],
+    "themes": ["politics", "law", "diversity"]
+  }
+]

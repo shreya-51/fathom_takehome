@@ -1,0 +1,34 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "Gun Control Bill",
+    "description": "The White House is trying to pass a gun control bill, 802, but they are struggling to get the necessary votes in Congress.",
+    "characters": ["Bartlet", "Leo", "Josh", "Toby", "Sam", "C.J.", "Mandy", "Katzenmoyer", "O'Bannon", "LeBrandt", "Wick", "Tillinghouse", "Richardson"],
+    "themes": ["gun control", "politics", "legislation"]
+  },
+  {
+    "label": "Leo's Marriage Troubles",
+    "description": "Leo's wife Jenny leaves him after he prioritizes his work over their marriage.",
+    "characters": ["Leo", "Jenny"],
+    "themes": ["marriage", "work-life balance"]
+  },
+  {
+    "label": "Toby's Stock Issue",
+    "description": "Toby is investigated for potential insider trading after his stock holdings increase significantly due to a friend's testimony.",
+    "characters": ["Toby", "Sam", "C.J.", "Leela"],
+    "themes": ["ethics", "perception", "politics"]
+  },
+  {
+    "label": "Bartlet's Medication",
+    "description": "Bartlet accidentally takes both his Vicodin and Percocet, causing him to become impaired and act strangely during a meeting with his staff.",
+    "characters": ["Bartlet", "Leo", "Josh", "Toby", "Sam", "C.J.", "Mandy", "Charlie"],
+    "themes": ["leadership", "health", "decision-making"]
+  },
+  {
+    "label": "Hoynes' Political Maneuvering",
+    "description": "Hoynes steps in to secure the final vote needed to pass the gun control bill, gaining political capital in the process.",
+    "characters": ["Hoynes", "Tillinghouse", "Josh"],
+    "themes": ["politics", "power", "legislation"]
+  }
+]

@@ -1,0 +1,22 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "Sam's Relationship with a Call Girl",
+    "description": "Sam Seaborn is revealed to be in a relationship with a woman who is later discovered to be a call girl. This causes concern among the senior staff, particularly C.J., about the potential political fallout.",
+    "characters": ["Sam Seaborn", "C.J. Cregg"],
+    "themes": ["ethics", "reputation", "discretion"]
+  },
+  {
+    "label": "The President's Response to the Airplane Attack",
+    "description": "President Bartlet struggles with how to respond to the downing of an American airplane, weighing the desire for a proportional response against the need for a stronger message. This leads to tensions with his national security team.",
+    "characters": ["President Bartlet", "Leo McGarry", "Admiral Fitzwallace"],
+    "themes": ["foreign policy", "military action", "decision-making"]
+  },
+  {
+    "label": "Charlie Young's Hiring as the President's Personal Aide",
+    "description": "Charlie Young, a young black man whose mother was recently killed in the line of duty as a police officer, is hired as the President's personal aide despite some initial hesitation from the senior staff about the optics.",
+    "characters": ["Charlie Young", "Josh Lyman", "President Bartlet"],
+    "themes": ["diversity", "opportunity", "grief"]
+  }
+]

@@ -1,0 +1,17 @@
+Here is the story arc summary in the requested JSON format:
+
+{
+  "label": "Tragedy and Retaliation",
+  "description": "The episode deals with the tragic death of Dr. Morris Tolliver, the President's physician, in a terrorist attack. This leads to the President vowing to retaliate against the perpetrators with the full force of the U.S. military.",
+  "characters": [
+    "President Bartlet",
+    "Leo McGarry",
+    "Dr. Morris Tolliver"
+  ],
+  "themes": [
+    "Tragedy",
+    "Terrorism",
+    "Military Response",
+    "Grief and Mourning"
+  ]
+}

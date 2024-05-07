@@ -1,0 +1,74 @@
+Here is the story arc extraction in JSON format:
+
+{
+  "story_arcs": [
+    {
+      "label": "Hurricane Sarah",
+      "description": "A powerful hurricane named Sarah is heading towards Georgia and the Carolinas, requiring federal disaster relief preparations.",
+      "characters": [
+        "Josh",
+        "C.J."
+      ],
+      "themes": [
+        "Natural disaster",
+        "Federal response"
+      ]
+    },
+    {
+      "label": "Teamsters strike",
+      "description": "The Teamsters union is threatening to go on strike at midnight, which could cripple the country's transportation system.",
+      "characters": [
+        "Leo",
+        "Josh",
+        "C.J.",
+        "Toby"
+      ],
+      "themes": [
+        "Labor dispute",
+        "Government intervention"
+      ]
+    },
+    {
+      "label": "Standoff in McClane, Idaho",
+      "description": "Federal authorities have surrounded a farmhouse in McClane, Idaho, where 18-40 armed survivalists are holed up, including children. The situation is tense and threatens to turn violent.",
+      "characters": [
+        "Toby",
+        "Mandy",
+        "Josh"
+      ],
+      "themes": [
+        "Domestic terrorism",
+        "Use of force",
+        "Civil liberties"
+      ]
+    },
+    {
+      "label": "State dinner for Indonesian President",
+      "description": "The White House is hosting a state dinner for the President of Indonesia, which requires coordination and diplomacy.",
+      "characters": [
+        "Toby",
+        "Josh",
+        "Donna",
+        "Sam"
+      ],
+      "themes": [
+        "International relations",
+        "Diplomatic protocol"
+      ]
+    },
+    {
+      "label": "Carrier group in hurricane's path",
+      "description": "A U.S. Navy carrier group has been evacuated from Norfolk and is now trapped in the path of the powerful Hurricane Sarah, putting thousands of lives at risk.",
+      "characters": [
+        "Bartlet",
+        "Leo",
+        "C.J."
+      ],
+      "themes": [
+        "Military operations",
+        "Natural disaster response",
+        "Presidential leadership"
+      ]
+    }
+  ]
+}

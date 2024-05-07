@@ -1,0 +1,71 @@
+Here is the JSON response with the extracted story arcs from the given episode:
+
+{
+  "story_arcs": [
+    {
+      "label": "Gun Control Legislation",
+      "description": "The White House staff is working to pass a gun control bill (802) through Congress, but they are facing opposition and losing votes.",
+      "characters": [
+        "Bartlet",
+        "Leo",
+        "Josh",
+        "Toby",
+        "Sam",
+        "C.J.",
+        "Mandy",
+        "Katzenmoyer",
+        "O'Bannon",
+        "LeBrandt",
+        "Wick",
+        "Tillinghouse",
+        "Richardson"
+      ],
+      "themes": [
+        "Gun Control",
+        "Legislative Process",
+        "Partisan Politics"
+      ]
+    },
+    {
+      "label": "Leo's Marital Issues",
+      "description": "Leo is having problems in his marriage with his wife Jenny, which leads to her leaving him temporarily.",
+      "characters": [
+        "Leo",
+        "Jenny"
+      ],
+      "themes": [
+        "Marriage",
+        "Work-Life Balance"
+      ]
+    },
+    {
+      "label": "Toby's Stock Market Controversy",
+      "description": "Toby is facing a potential scandal over his stock market investments and a friend's testimony to Congress, which could damage the President's image.",
+      "characters": [
+        "Toby",
+        "Sam",
+        "Bartlet",
+        "Leela"
+      ],
+      "themes": [
+        "Ethics",
+        "Perception Management",
+        "Abuse of Power"
+      ]
+    },
+    {
+      "label": "Vice President Hoynes' Political Maneuvering",
+      "description": "Vice President Hoynes steps in to secure the crucial vote from Congressman Tillinghouse, gaining political capital at the expense of the President.",
+      "characters": [
+        "Hoynes",
+        "Tillinghouse",
+        "Josh"
+      ],
+      "themes": [
+        "Partisan Politics",
+        "Power Dynamics",
+        "Political Ambition"
+      ]
+    }
+  ]
+}

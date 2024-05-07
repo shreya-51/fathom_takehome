@@ -1,0 +1,28 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The White House Holiday Celebration",
+    "description": "The White House staff is preparing for the annual holiday celebration, including decorating the lobby, selecting performers, and deciding on the costumes for the event.",
+    "characters": ["Mandy", "C.J.", "Toby", "Sam"],
+    "themes": ["holiday traditions", "White House operations"]
+  },
+  {
+    "label": "The Death of a Homeless Veteran",
+    "description": "Toby is informed that a homeless Korean War veteran, Walter Hufnagle, has died of exposure. Toby takes it upon himself to arrange a proper military funeral for the veteran, despite not knowing him personally.",
+    "characters": ["Toby", "George Hufnagle", "Homeless Man"],
+    "themes": ["honoring veterans", "homelessness", "Toby's personal connection"]
+  },
+  {
+    "label": "Protecting Leo's Past",
+    "description": "Josh and Sam attempt to get information from a high-end escort, Laurie, to help protect Leo's past as a recovering alcoholic from being exposed by a congressman.",
+    "characters": ["Josh", "Sam", "Laurie", "Leo"],
+    "themes": ["political scandal", "loyalty", "ethics"]
+  },
+  {
+    "label": "Hate Crimes Legislation",
+    "description": "C.J. advocates for the White House to take a strong stance on hate crimes legislation following the brutal attack on a gay high school student, while Leo cautions her to be more measured in her approach.",
+    "characters": ["C.J.", "Leo"],
+    "themes": ["civil rights", "political strategy", "moral dilemmas"]
+  }
+]

@@ -1,0 +1,25 @@
+Here are the story arcs from the script:
+
+1. Mandy's career and financial troubles:
+   - Label: Mandy's career and financial troubles
+   - Description: Mandy loses her client, Senator Lloyd Russell, and her marketing firm. She is now unemployed and struggling financially.
+   - Characters: Mandy, Daisy
+   - Themes: Career, financial hardship, political consulting
+
+2. Sam's encounter with a call girl:
+   - Label: Sam's encounter with a call girl
+   - Description: Sam accidentally sleeps with a call girl named Laurie and tries to befriend her, despite warnings from Josh and Toby.
+   - Characters: Sam, Laurie, Josh, Toby
+   - Themes: Ethics, personal relationships, morality
+
+3. The White House's public relations issues:
+   - Label: The White House's public relations issues
+   - Description: The White House faces a series of public relations challenges, including the President's joke about golfers and the Vice President's strained comments.
+   - Characters: President Bartlet, Leo, C.J., Josh, Toby
+   - Themes: Media relations, political messaging, party unity
+
+4. The tragedy of Morris Tolliver's death:
+   - Label: The tragedy of Morris Tolliver's death
+   - Description: The President is devastated to learn that his personal physician, Morris Tolliver, has been killed in a terrorist attack.
+   - Characters: President Bartlet, Leo
+   - Themes: Tragedy, national security, leadership in crisis

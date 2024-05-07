@@ -1,0 +1,27 @@
+Here is a summary of the key story arcs in the episode:
+
+{
+  "label": "Bartlet's Chili Night",
+  "description": "President Bartlet invites the White House staff to the residence for a chili dinner, creating a lighthearted, bonding moment for the team.",
+  "characters": ["President Bartlet", "White House Staff"],
+  "themes": ["Teamwork", "Work-Life Balance"]
+},
+{
+  "label": "The N.S.C. Card",
+  "description": "Josh is given a card by an N.S.C. staffer with instructions on what to do in the event of a nuclear attack, but he is troubled that the card was only given to him and not the rest of the senior staff.",
+  "characters": ["Josh Lyman"],
+  "themes": ["National Security", "Loyalty"]
+},
+{
+  "label": "Toby's Insecurities",
+  
+  "description": "Toby is concerned that he was not the President's first choice for Communications Director, leading to tension between him and the President that they eventually resolve.",
+  "characters": ["Toby Ziegler", "President Bartlet"],
+  "themes": ["Imposter Syndrome", "Forgiveness"]
+},
+{
+  "label": "The Wolves-Only Roadway",
+  "description": "C.J. meets with a group proposing an 1800-mile "wolves-only roadway" to protect the wolf population, which she is skeptical about due to the high cost and impracticality.",
+  "characters": ["C.J. Cregg", "Wildlife Advocates"],
+  "themes": ["Environmental Conservation", "Government Spending"]
+}

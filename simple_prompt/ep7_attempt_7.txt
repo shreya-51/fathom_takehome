@@ -1,0 +1,31 @@
+Here are the story arcs from the script:
+
+1. Hurricane Sarah:
+   - Label: Hurricane Sarah
+   - Description: A powerful hurricane is heading towards Georgia and the Carolinas, requiring federal disaster relief.
+   - Characters: C.J., Josh, FEMA
+   - Themes: Natural disaster, emergency response
+
+2. Teamsters Strike:
+   - Label: Teamsters Strike
+   - Description: Management and labor are negotiating to avoid a crippling strike that will begin at midnight.
+   - Characters: Leo, Russo, Little
+   - Themes: Labor relations, negotiation
+
+3. Survivalist Standoff in Idaho:
+   - Label: Survivalist Standoff in Idaho
+   - Description: The government is planning a siege on 18 to 40 armed survivalists, while also hosting a state dinner.
+   - Characters: Toby, Mandy, FBI
+   - Themes: Civil liberties, use of force, media relations
+
+4. State Dinner for Indonesian President:
+   - Label: State Dinner for Indonesian President
+   - Description: The White House is hosting a state dinner for the President of Indonesia, with various protocol and translation challenges.
+   - Characters: Bartlet, Siguto, Toby, Josh, Donna
+   - Themes: Diplomacy, cultural differences
+
+5. Carrier Group in Hurricane's Path:
+   - Label: Carrier Group in Hurricane's Path
+   - Description: A U.S. Navy carrier group is trapped in the path of the powerful Hurricane Sarah.
+   - Characters: Bartlet, Leo, Navy Captain
+   - Themes: Crisis management, military operations, powerlessness

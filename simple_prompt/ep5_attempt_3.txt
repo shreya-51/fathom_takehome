@@ -1,0 +1,21 @@
+Here are the story arcs I can extract from the script:
+
+1. Label: The President's Basketball Game
+   Description: The President plays a game of basketball with his staff, including Toby, Josh, and Charlie. He brings in a professional basketball player, Rodney Grant, to help his team, which leads to a confrontation with Toby about the President's tendency to cheat.
+   Characters: Bartlet, Toby, Josh, Charlie, Rodney Grant
+   Themes: Competitiveness, Cheating, Friendship
+
+2. Label: The "Cheese Day" Office Policy
+   Description: Leo explains the White House's "Cheese Day" policy, where senior staff meet with representatives from various organizations, a policy that the staff find tedious but one that Leo believes is important.
+   Characters: Leo, Toby, Sam, Mandy, Margaret, Cathy
+   Themes: Bureaucracy, Serving the People
+
+3. Label: The Nuclear Attack Card
+   Description: Josh is given a card by an NSC staffer with instructions on what to do in the event of a nuclear attack, which he finds upsetting as it means he would be evacuated separately from his colleagues.
+   Characters: Josh, Lacey (NSC staffer), Sam
+   Themes: Emergency Preparedness, Isolation, Loyalty
+
+4. The President's Chili Night
+   Description: The President decides to make chili for the staff, bringing them together socially and allowing him to reflect on the strengths and contributions of his team.
+   Characters: Bartlet, Leo, C.J., Toby, Mandy, Mrs. Landingham, Zoey, Charlie, Josh
+   Themes: Camaraderie, Appreciation, Mentorship

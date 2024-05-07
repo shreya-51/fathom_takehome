@@ -1,0 +1,70 @@
+Here is the story arc extraction in JSON format:
+
+{
+  "story_arcs": [
+    {
+      "label": "Hurricane Sarah",
+      "description": "A powerful hurricane named Sarah is heading towards Georgia and the Carolinas, requiring federal disaster relief preparations.",
+      "characters": [
+        "Josh",
+        "C.J."
+      ],
+      "themes": [
+        "Natural disaster",
+        "Federal response"
+      ]
+    },
+    {
+      "label": "Teamsters strike",
+      "description": "The Teamsters union is threatening to go on strike at midnight, which would cripple the country's transportation system.",
+      "characters": [
+        "Leo",
+        "Josh",
+        "Bartlet"
+      ],
+      "themes": [
+        "Labor dispute",
+        "Presidential intervention"
+      ]
+    },
+    {
+      "label": "Standoff in Idaho",
+      "description": "A group of armed survivalists have barricaded themselves in a farmhouse, leading to a hostage situation with the FBI.",
+      "characters": [
+        "Toby",
+        "Mandy",
+        "Josh"
+      ],
+      "themes": [
+        "Domestic terrorism",
+        "Government response"
+      ]
+    },
+    {
+      "label": "State dinner for Indonesian President",
+      "description": "The White House is hosting a state dinner for the President of Indonesia, which is complicated by the other crises.",
+      "characters": [
+        "Toby",
+        "Josh",
+        "Donna"
+      ],
+      "themes": [
+        "Diplomacy",
+        "Logistical challenges"
+      ]
+    },
+    {
+      "label": "Carrier group in hurricane",
+      "description": "A U.S. Navy carrier group is trapped in the path of Hurricane Sarah, putting the lives of thousands of sailors at risk.",
+      "characters": [
+        "Bartlet",
+        "Leo",
+        "C.J."
+      ],
+      "themes": [
+        "Military crisis",
+        "Presidential decision-making"
+      ]
+    }
+  ]
+}

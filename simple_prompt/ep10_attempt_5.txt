@@ -1,0 +1,34 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The White House Holiday Celebration",
+    "description": "The White House staff is preparing for the annual holiday celebration, including decorating the lobby, selecting performers, and discussing the details of the event.",
+    "characters": ["Mandy", "C.J.", "Toby", "Sam"],
+    "themes": ["holiday traditions", "White House operations"]
+  },
+  {
+    "label": "The Death of a Homeless Veteran",
+    "description": "Toby is informed about the death of a homeless Korean War veteran who was wearing Toby's old coat. Toby takes it upon himself to arrange a proper military funeral for the veteran.",
+    "characters": ["Toby", "George Hufnagle", "Homeless Man"],
+    "themes": ["homelessness", "veteran affairs", "compassion"]
+  },
+  {
+    "label": "Protecting Leo's Past",
+    "description": "Josh and Sam attempt to get information from a high-end escort to prevent a congressman from exposing Leo's past struggles with addiction, but Leo is unhappy with their methods.",
+    "characters": ["Josh", "Sam", "Leo", "Laurie"],
+    "themes": ["political scandal", "loyalty", "ethics"]
+  },
+  {
+    "label": "Hate Crimes Legislation",
+    "description": "C.J. advocates for stronger hate crimes legislation in the wake of a brutal attack on a gay teenager, but Leo cautions her to be more measured in her approach.",
+    "characters": ["C.J.", "Leo", "Danny"],
+    "themes": ["civil rights", "social justice", "political strategy"]
+  },
+  {
+    "label": "The President's Christmas Outing",
+    "description": "Bartlet sneaks out of the White House to do some last-minute Christmas shopping at a rare bookstore, much to the chagrin of his staff.",
+    "characters": ["Bartlet", "Mandy", "Josh"],
+    "themes": ["presidential power", "work-life balance", "holiday spirit"]
+  }
+]

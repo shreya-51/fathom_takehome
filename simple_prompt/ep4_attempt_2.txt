@@ -1,0 +1,28 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "Gun Control Bill",
+    "description": "The White House is trying to pass a gun control bill, 802, but they are struggling to get the necessary votes in Congress. They have to make deals and compromises to secure the votes they need.",
+    "characters": ["Bartlet", "Leo", "Josh", "Toby", "Sam", "C.J.", "Mandy", "Katzenmoyer", "O'Bannon", "LeBrandt", "Wick", "Richardson", "Hoynes"],
+    "themes": ["gun control", "politics", "legislative process", "compromise"]
+  },
+  {
+    "label": "Leo's Marriage Troubles",
+    "description": "Leo's wife Jenny leaves him after he prioritizes his work at the White House over their marriage. This puts a strain on their relationship.",
+    "characters": ["Leo", "Jenny"],
+    "themes": ["marriage", "work-life balance", "priorities"]
+  },
+  {
+    "label": "Toby's Stock Issue",
+    "description": "Toby is investigated for potential insider trading after his stock in a technology company skyrockets in value following testimony from a friend. This creates a perception issue for the White House.",
+    "characters": ["Toby", "Sam", "C.J.", "Bartlet"],
+    "themes": ["ethics", "perception", "media scrutiny"]
+  },
+  {
+    "label": "Vice President Hoynes' Influence",
+    "description": "Vice President Hoynes steps in to secure the crucial vote from Congressman Tillinghouse, allowing the gun control bill to pass. This gives Hoynes a political victory and increases his influence.",
+    "characters": ["Hoynes", "Tillinghouse", "Josh"],
+    "themes": ["power dynamics", "political maneuvering", "influence"]
+  }
+]

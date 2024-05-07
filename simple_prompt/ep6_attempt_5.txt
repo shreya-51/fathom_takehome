@@ -1,0 +1,65 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The White House Poker Game",
+    "description": "The President and his staff gather for a late-night poker game, where they engage in witty banter and intellectual discussions while playing cards.",
+    "characters": [
+      "President Bartlet",
+      "Leo McGarry",
+      "C.J. Cregg",
+      "Mandy Hampton",
+      "Sam Seaborn",
+      "Josh Lyman",
+      "Toby Ziegler"
+    ],
+    "themes": [
+      "Camaraderie",
+      "Intellectual Discourse",
+      "Workplace Dynamics"
+    ]
+  },
+  {
+    "label": "The Census Debate",
+    "description": "The White House staff engages in a high-stakes negotiation with members of Congress over the use of sampling data in the 2000 Census, with implications for political representation and funding.",
+    "characters": [
+      "Toby Ziegler",
+      "Mandy Hampton",
+      "Congressmen Gladman, Skinner, and Willis"
+    ],
+    "themes": [
+      "Constitutional Interpretation",
+      "Partisan Politics",
+      "Data and Representation"
+    ]
+  },
+  {
+    "label": "The First Daughter's Night Out",
+    "description": "Zoey Bartlet, the President's daughter, goes out with her friends to a Georgetown bar, leading to a tense confrontation with some unwelcome suitors and a heartfelt conversation with her father about the challenges of being a public figure's child.",
+    "characters": [
+      "President Bartlet",
+      "Zoey Bartlet",
+      "Josh Lyman",
+      "Sam Seaborn",
+      "Charlie Young"
+    ],
+    "themes": [
+      "Parental Protectiveness",
+      "Navigating Public Life",
+      "Youth and Freedom"
+    ]
+  },
+  {
+    "label": "Leo's Marital Troubles",
+    "description": "Leo McGarry, the White House Chief of Staff, reveals to the President that his wife, Jenny, is asking for a divorce, leading to a tense discussion about the challenges of maintaining a personal life while serving in a high-profile government position.",
+    "characters": [
+      "President Bartlet",
+      "Leo McGarry"
+    ],
+    "themes": [
+      "Work-Life Balance",
+      "Marital Conflict",
+      "Loyalty and Friendship"
+    ]
+  }
+]

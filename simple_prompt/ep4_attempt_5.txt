@@ -1,0 +1,28 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "Bartlet's Speech",
+    "description": "Bartlet delivers an inspiring speech at a dinner, rallying the crowd and emphasizing the importance of civic engagement.",
+    "characters": ["Bartlet", "Leo", "Josh", "Toby", "Sam", "C.J."],
+    "themes": ["Practical Idealism", "Civic Duty"]
+  },
+  {
+    "label": "Losing Votes on Bill 802",
+    "description": "The White House staff scrambles to regain votes they lost on a crucial bill, 802, with Leo turning to the Vice President for help.",
+    "characters": ["Leo", "Josh", "Toby", "Sam", "C.J.", "Mandy", "Hoynes"],
+    "themes": ["Legislation", "Compromise", "Political Maneuvering"]
+  },
+  {
+    "label": "Toby's Stock Issue",
+    "description": "Toby is revealed to have made a significant profit from a stock investment, raising concerns about potential impropriety and the need to address the perception issues.",
+    "characters": ["Toby", "Sam", "C.J."],
+    "themes": ["Ethics", "Perception Management", "Transparency"]
+  },
+  {
+    "label": "Leo's Marital Troubles",
+    "description": "Leo's marriage to Jenny is strained due to his dedication to his work, leading to a separation and emotional turmoil.",
+    "characters": ["Leo", "Jenny"],
+    "themes": ["Work-Life Balance", "Relationships", "Sacrifice"]
+  }
+]

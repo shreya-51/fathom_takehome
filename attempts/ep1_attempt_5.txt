@@ -1,0 +1,66 @@
+Here is the JSON response adhering to the provided schema:
+
+{
+  "story_arcs": [
+    {
+      "label": "Josh's job security",
+      "description": "There are concerns about Josh Lyman's job security after his confrontational appearance on a TV show. The President and senior staff discuss how to handle the situation.",
+      "characters": [
+        "Josh Lyman",
+        "Leo McGarry",
+        "Toby Ziegler",
+        "C.J. Cregg",
+        "President Bartlet"
+      ],
+      "themes": [
+        "political tensions",
+        "job security",
+        "media relations"
+      ]
+    },
+    {
+      "label": "Cuban refugee crisis",
+      "description": "A large group of Cuban refugees are attempting to reach the United States, leading to a crisis that the White House staff must address.",
+      "characters": [
+        "Josh Lyman",
+        "Sam Seaborn",
+        "Toby Ziegler"
+      ],
+      "themes": [
+        "immigration",
+        "foreign policy",
+        "humanitarian crisis"
+      ]
+    },
+    {
+      "label": "Sam's personal life",
+      "description": "Sam Seaborn accidentally switches pagers with a woman he met, who turns out to be a high-priced escort. He has to deal with the implications of this situation.",
+      "characters": [
+        "Sam Seaborn",
+        "Laurie"
+      ],
+      "themes": [
+        "personal ethics",
+        "discretion",
+        "relationships"
+      ]
+    },
+    {
+      "label": "Tensions with the Christian Right",
+      "description": "The White House staff, including Josh, Toby, and C.J., have a tense meeting with representatives from the Christian Right, including Al Caldwell, Mary Marsh, and John Van Dyke, over political and social issues.",
+      "characters": [
+        "Josh Lyman",
+        "Toby Ziegler",
+        "C.J. Cregg",
+        "Al Caldwell",
+        "Mary Marsh",
+        "John Van Dyke"
+      ],
+      "themes": [
+        "religious politics",
+        "social issues",
+        "political compromise"
+      ]
+    }
+  ]
+}

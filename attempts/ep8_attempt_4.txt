@@ -1,0 +1,63 @@
+Here is the story arcs extracted from the episode:
+
+{
+  "story_arcs": [
+    {
+      "label": "The Banking Bill",
+      "description": "The White House is working to pass a banking reform bill, but faces challenges when a land-use rider is attached by Broderick and Eaton.",
+      "characters": [
+        "Bartlet",
+        "Leo",
+        "Josh",
+        "Toby",
+        "Sam",
+        "Hoynes"
+      ],
+      "themes": [
+        "Politics",
+        "Legislation",
+        "Compromise"
+      ]
+    },
+    {
+      "label": "Mallory and Leo's Relationship",
+      "description": "Mallory is upset with Leo for giving Sam a task that interfered with their plans to attend the opera together. They work to reconcile their relationship.",
+      "characters": [
+        "Mallory",
+        "Leo"
+      ],
+      "themes": [
+        "Family",
+        "Work-Life Balance"
+      ]
+    },
+    {
+      "label": "The Cabinet Meeting Incident",
+      "description": "There are rumors about a confrontation between Bartlet and Hoynes during a cabinet meeting, which C.J. and others try to contain.",
+      "characters": [
+        "Bartlet",
+        "Hoynes",
+        "C.J.",
+        "Danny"
+      ],
+      "themes": [
+        "Power Dynamics",
+        "Transparency"
+      ]
+    },
+    {
+      "label": "Sam's Birthday Message",
+      "description": "Sam is tasked by Bartlet to write a birthday message for the Assistant Secretary of Transportation, which he takes very seriously.",
+      "characters": [
+        "Sam",
+        "Bartlet",
+        "Mallory",
+        "Leo"
+      ],
+      "themes": [
+        "Duty",
+        "Overqualification"
+      ]
+    }
+  ]
+}

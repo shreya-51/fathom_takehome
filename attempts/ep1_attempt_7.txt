@@ -1,0 +1,80 @@
+Here is the story arc analysis in JSON format:
+
+{
+  "story_arcs": [
+    {
+      "label": "Josh's Potential Firing",
+      "description": "There is a possibility that Josh Lyman may be fired from his position in the White House due to his controversial comments on a TV show.",
+      "characters": [
+        "Josh Lyman",
+        "Leo McGarry",
+        "Toby Ziegler",
+        "C.J. Cregg"
+      ],
+      "themes": [
+        "Political tensions",
+        "Workplace dynamics",
+        "Freedom of speech"
+      ]
+    },
+    {
+      "label": "The Cuban Refugee Crisis",
+      "description": "A large group of Cuban refugees are attempting to reach the United States, leading to a complex policy challenge for the White House.",
+      "characters": [
+        "Leo McGarry",
+        "Josh Lyman",
+        "Sam Seaborn"
+      ],
+      "themes": [
+        "Immigration policy",
+        "Humanitarian crisis",
+        "National security"
+      ]
+    },
+    {
+      "label": "Sam's Personal Entanglement",
+      "description": "Sam Seaborn accidentally switches pagers with a woman who turns out to be a high-priced escort, leading to a personal dilemma for him.",
+      "characters": [
+        "Sam Seaborn",
+        "Laurie"
+      ],
+      "themes": [
+        "Ethics",
+        "Moral dilemmas",
+        "Work-life balance"
+      ]
+    },
+    {
+      "label": "The President's Bicycle Accident",
+      "description": "The President is injured in a bicycle accident, leading to a public relations challenge for the White House.",
+      "characters": [
+        "President Bartlet",
+        "Leo McGarry",
+        "C.J. Cregg"
+      ],
+      "themes": [
+        "Leadership",
+        "Public perception",
+        "Work-life balance"
+      ]
+    },
+    {
+      "label": "Tensions with the Christian Right",
+      "description": "The White House faces a tense negotiation with representatives of the Christian Right, including Mary Marsh and John Van Dyke.",
+      "characters": [
+        "President Bartlet",
+        "Leo McGarry",
+        "Toby Ziegler",
+        "Josh Lyman",
+        "Al Caldwell",
+        "Mary Marsh",
+        "John Van Dyke"
+      ],
+      "themes": [
+        "Church-state relations",
+        "Political compromise",
+        "Freedom of religion"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+Here are the story arcs I can extract from the script:
+
+1. Label: The President's Health
+   Description: The President is playing basketball with his staff, but they are concerned he may be pushing himself too hard. Toby tries to convince the President to take a break, but the President insists on continuing to play.
+   Characters: Bartlet, Toby, Josh, Charlie
+   Themes: Aging, physical fitness, leadership
+
+2. Label: The President's Competitive Nature
+   Description: The President is revealed to be highly competitive, even willing to cheat at sports to win. This leads to a conflict with Toby over the President's credibility.
+   Characters: Bartlet, Toby, Josh
+   Themes: Integrity, competition, leadership
+
+3. Label: The National Security Council Card
+   Description: Josh is given a special card by the National Security Council with instructions on what to do in the event of a nuclear attack. He is troubled that the card was only given to him and not his colleagues.
+   Characters: Josh, Leo, Sam
+   Themes: National security, mortality, isolation
+
+4. The President's Chili Night
+   Description: The President invites the senior staff to the residence for a chili dinner, creating a lighthearted, bonding moment for the team.
+   Characters: Bartlet, senior staff (Josh, C.J., Toby, Sam, Mandy, etc.)
+   Themes: Camaraderie, work-life balance, leadership

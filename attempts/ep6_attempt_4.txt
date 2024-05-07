@@ -1,0 +1,51 @@
+Here is the story arcs extracted from the episode:
+
+{
+  "story_arcs": [
+    {
+      "label": "Census Debate",
+      "description": "The White House is negotiating with Congress over the use of sampling data in the 2000 Census. The President is committed to vetoing any bill that prohibits sampling, while some members of Congress argue it is unconstitutional.",
+      "characters": [
+        "Bartlet",
+        "Toby",
+        "Mandy",
+        "Gladman",
+        "Skinner",
+        "Willis"
+      ],
+      "themes": [
+        "Constitutional interpretation",
+        "Accuracy of census data",
+        "Partisan politics"
+      ]
+    },
+    {
+      "label": "Leo's Marital Troubles",
+      "description": "Leo reveals to the President that his wife Jenny is asking for a divorce, which shocks and concerns Bartlet.",
+      "characters": [
+        "Bartlet",
+        "Leo"
+      ],
+      "themes": [
+        "Marriage and family",
+        "Work-life balance"
+      ]
+    },
+    {
+      "label": "Zoey's Security Incident",
+      "description": "Zoey, the President's daughter, is accosted by some men at a bar, leading to increased security measures from her protective father.",
+      "characters": [
+        "Bartlet",
+        "Zoey",
+        "Charlie",
+        "Josh",
+        "Sam"
+      ],
+      "themes": [
+        "Presidential family security",
+        "Parental protection",
+        "Youth and freedom"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "Bartlet's Speech",
+    "description": "Bartlet delivers an impassioned speech at a dinner, rallying support for an upcoming vote on a bill.",
+    "characters": ["Bartlet", "Leo", "Josh", "Toby", "Sam", "C.J."],
+    "themes": ["politics", "legislation", "public speaking"]
+  },
+  {
+    "label": "Losing Votes on Bill 802",
+    "description": "The White House staff scrambles to regain votes they've lost on a crucial bill, 802, leading to tensions and negotiations.",
+    "characters": ["Leo", "Josh", "Toby", "Sam", "C.J.", "Mandy"],
+    "themes": ["politics", "legislation", "negotiation", "teamwork"]
+  },
+  {
+    "label": "Toby's Stock Issue",
+    "description": "Toby's unexpected financial windfall from a stock investment raises ethical concerns and threatens to become a PR problem for the White House.",
+    "characters": ["Toby", "Sam", "C.J."],
+    "themes": ["ethics", "perception", "public image"]
+  },
+  {
+    "label": "Leo's Marital Troubles",
+    "description": "Leo's marriage to Jenny is strained due to his intense focus on his work, leading to a separation.",
+    "characters": ["Leo", "Jenny"],
+    "themes": ["marriage", "work-life balance", "personal sacrifice"]
+  },
+  {
+    "label": "Bartlet's Medication Mishap",
+    "description": "Bartlet accidentally takes a combination of medications that impairs his judgment, leading the staff to try to manage the situation discreetly.",
+    "characters": ["Bartlet", "Leo", "Toby", "Sam", "C.J.", "Charlie"],
+    "themes": ["leadership", "discretion", "health"]
+  },
+  {
+    "label": "Hoynes' Political Maneuvering",
+    "description": "The Vice President, John Hoynes, steps in to secure the final vote needed to pass Bill 802, gaining political capital in the process.",
+    "characters": ["Hoynes", "Tillinghouse", "Josh"],
+    "themes": ["politics", "power dynamics", "ambition"]
+  }
+]

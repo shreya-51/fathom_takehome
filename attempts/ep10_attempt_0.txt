@@ -1,0 +1,78 @@
+Here is the JSON response with the extracted story arcs:
+
+{
+  "story_arcs": [
+    {
+      "label": "Honoring a Forgotten Veteran",
+      "description": "Toby Ziegler discovers the body of a homeless Korean War veteran and arranges a military funeral for him, despite initial reluctance from the President.",
+      "characters": [
+        "Toby Ziegler",
+        "President Bartlet",
+        "Mrs. Landingham",
+        "George Hufnagle"
+      ],
+      "themes": [
+        "Honoring military service",
+        "Homelessness",
+        "Forgotten veterans"
+      ]
+    },
+    {
+      "label": "Protecting a Colleague's Past",
+      "description": "Josh and Sam attempt to get information from a high-priced escort to prevent a damaging revelation about Leo's past from being exposed.",
+      "characters": [
+        "Josh Lyman",
+        "Sam Seaborn",
+        "Leo McGarry",
+        "Laurie"
+      ],
+      "themes": [
+        "Protecting one's colleagues",
+        "Abuse of power",
+        "Moral dilemmas"
+      ]
+    },
+    {
+      "label": "Hate Crimes Legislation",
+      "description": "The White House debates the merits of passing hate crimes legislation in the wake of a brutal attack on a gay teenager.",
+      "characters": [
+        "C.J. Cregg",
+        "Leo McGarry",
+        "Josh Lyman",
+        "Lowell Lydell"
+      ],
+      "themes": [
+        "Hate crimes",
+        "Civil rights",
+        "Balancing politics and principles"
+      ]
+    },
+    {
+      "label": "Budding Romance",
+      "description": "C.J. agrees to go on a dinner date with reporter Danny Concannon, despite their professional conflict of interest.",
+      "characters": [
+        "C.J. Cregg",
+        "Danny Concannon"
+      ],
+      "themes": [
+        "Office romance",
+        "Navigating professional boundaries"
+      ]
+    },
+    {
+      "label": "Holiday Celebrations",
+      "description": "The White House staff prepares for the annual holiday celebrations, including a visit from a children's choir and the President's secret Christmas shopping trip.",
+      "characters": [
+        "President Bartlet",
+        "Mandy Hampton",
+        "Josh Lyman",
+        "Donna Moss"
+      ],
+      "themes": [
+        "Christmas traditions",
+        "Work-life balance",
+        "Appreciating the holidays"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+Here is the JSON response with the extracted story arcs:
+
+{
+  "story_arcs": [
+    {
+      "label": "Retaliation for the downing of an American plane",
+      "description": "The President orders a military strike in response to the downing of an American plane, grappling with the decision and the implications of a proportional versus disproportional response.",
+      "characters": [
+        "President Bartlet",
+        "Leo McGarry"
+      ],
+      "themes": [
+        "Use of military force",
+        "Proportional response",
+        "Consequences of actions"
+      ]
+    },
+    {
+      "label": "Sam Seaborn's relationship with a call girl",
+      "description": "C.J. confronts Sam about his relationship with a woman who turns out to be a call girl, concerned about the potential political fallout.",
+      "characters": [
+        "Sam Seaborn",
+        "C.J. Cregg"
+      ],
+      "themes": [
+        "Ethics and morality",
+        "Reputation and public perception"
+      ]
+    },
+    {
+      "label": "Hiring Charlie Young as the President's personal aide",
+      "description": "Josh interviews Charlie Young, a young black man, for the position of the President's personal aide, grappling with concerns about the optics.",
+      "characters": [
+        "Josh Lyman",
+        "Charlie Young",
+        "President Bartlet"
+      ],
+      "themes": [
+        "Diversity and representation",
+        "Overcoming biases"
+      ]
+    }
+  ]
+}

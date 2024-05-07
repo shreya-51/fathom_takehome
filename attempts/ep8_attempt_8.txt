@@ -1,0 +1,58 @@
+Here is the story arcs extracted from the episode:
+
+[
+  {
+    "label": "The Banking Bill",
+    "description": "The White House is working to pass a banking reform bill through Congress, but faces challenges when a land-use rider is attached by Senators Broderick and Eaton.",
+    "characters": [
+      "Bartlet",
+      "Leo",
+      "Josh",
+      "Toby",
+      "Sam"
+    ],
+    "themes": [
+      "Legislation",
+      "Bipartisanship",
+      "Environmental protection"
+    ]
+  },
+  {
+    "label": "Bartlet and Hoynes' Relationship",
+    "description": "There is tension between President Bartlet and Vice President Hoynes, stemming from their past interactions during the primary campaign.",
+    "characters": [
+      "Bartlet",
+      "Hoynes"
+    ],
+    "themes": [
+      "Political rivalry",
+      "Leadership dynamics"
+    ]
+  },
+  {
+    "label": "Leo's Relationship with Mallory",
+    "description": "Leo struggles to balance his work responsibilities with his relationship with his daughter Mallory, who is frustrated by his lack of availability.",
+    "characters": [
+      "Leo",
+      "Mallory"
+    ],
+    "themes": [
+      "Work-life balance",
+      "Parental relationships"
+    ]
+  },
+  {
+    "label": "Sam's Birthday Message",
+    "description": "Sam is tasked by the President to write a birthday message for the Assistant Secretary of Transportation, which he takes very seriously despite the seemingly mundane nature of the task.",
+    "characters": [
+      "Sam",
+      "Bartlet",
+      "Leo",
+      "Mallory"
+    ],
+    "themes": [
+      "Dedication to duty",
+      "Overqualification"
+    ]
+  }
+]

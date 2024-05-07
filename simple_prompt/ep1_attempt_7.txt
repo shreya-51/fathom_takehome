@@ -1,0 +1,34 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "Josh's Relationship with the Christian Right",
+    "description": "Josh's confrontational approach with the Christian Right, particularly Mary Marsh and John Van Dyke, threatens his job and the administration's relationship with this important political constituency.",
+    "characters": ["Josh Lyman", "Mary Marsh", "John Van Dyke", "Al Caldwell"],
+    "themes": ["political conflict", "religious values", "job security"]
+  },
+  {
+    "label": "The Cuban Refugee Crisis",
+    "description": "The administration grapples with how to handle the influx of Cuban refugees attempting to reach the United States, balancing humanitarian concerns with political realities.",
+    "characters": ["Leo McGarry", "Josh Lyman", "Toby Ziegler", "Sam Seaborn"],
+    "themes": ["immigration", "foreign policy", "political pragmatism"]
+  },
+  {
+    "label": "Sam's Personal Indiscretion",
+    "description": "Sam Seaborn accidentally sleeps with a high-priced escort, Laurie, complicating his professional life and relationships.",
+    "characters": ["Sam Seaborn", "Laurie"],
+    "themes": ["personal ethics", "discretion", "abuse of power"]
+  },
+  {
+    "label": "The President's Bicycle Accident",
+    "description": "President Bartlet's bicycle accident and injury become a source of embarrassment and distraction for the administration, highlighting the President's human flaws.",
+    "characters": ["President Bartlet", "Leo McGarry", "Mrs. Landingham"],
+    "themes": ["leadership", "public perception", "work-life balance"]
+  },
+  {
+    "label": "Mandy's Return and Relationship with Lloyd Russell",
+    "description": "Mandy Hampton, a former campaign strategist, returns to Washington and begins working for Senator Lloyd Russell, who may challenge the President's re-election bid.",
+    "characters": ["Mandy Hampton", "Josh Lyman", "Lloyd Russell"],
+    "themes": ["political rivalry", "personal relationships", "career ambition"]
+  }
+]

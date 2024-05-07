@@ -1,0 +1,56 @@
+Here is the JSON response with the extracted story arcs:
+
+{
+  "story_arcs": [
+    {
+      "label": "The Census Debate",
+      "description": "The White House staff debates the issue of using sampling data versus a traditional head count for the 2000 Census, with the President's team trying to convince a group of swing-vote Congressmen to drop their amendment prohibiting sampling.",
+      "characters": [
+        "Bartlet",
+        "Leo",
+        "Toby",
+        "Josh",
+        "Mandy",
+        "Sam",
+        "C.J.",
+        "Gladman",
+        "Skinner",
+        "Willis"
+      ],
+      "themes": [
+        "Constitutional interpretation",
+        "Partisan politics",
+        "Government efficiency"
+      ]
+    },
+    {
+      "label": "Leo's Marital Troubles",
+      "description": "Leo reveals to the President that his wife Jenny is asking for a divorce, which Bartlet is upset about and urges Leo to fix.",
+      "characters": [
+        "Bartlet",
+        "Leo",
+        "Mallory"
+      ],
+      "themes": [
+        "Marriage and family",
+        "Work-life balance"
+      ]
+    },
+    {
+      "label": "Zoey's Night Out",
+      "description": "Zoey goes out to a bar with her friends, leading to a confrontation with some aggressive men and prompting Bartlet to increase her Secret Service protection, despite her desire for more independence.",
+      "characters": [
+        "Bartlet",
+        "Zoey",
+        "Charlie",
+        "Josh",
+        "Sam"
+      ],
+      "themes": [
+        "Parental protection",
+        "Presidential family life",
+        "Security and safety"
+      ]
+    }
+  ]
+}

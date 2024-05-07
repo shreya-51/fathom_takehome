@@ -1,0 +1,34 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The White House Poker Game",
+    "description": "The President and his staff gather for a late-night poker game, where they engage in witty banter and intellectual discussions while playing cards.",
+    "characters": ["President Bartlet", "Leo McGarry", "C.J. Cregg", "Mandy Hampton", "Sam Seaborn", "Josh Lyman", "Toby Ziegler"],
+    "themes": ["camaraderie", "intellectual discourse", "political intrigue"]
+  },
+  {
+    "label": "The Census Debate",
+    "description": "The White House team negotiates with members of Congress over the use of sampling data in the 2000 Census, leading to a debate over the constitutional and practical implications of the issue.",
+    "characters": ["Toby Ziegler", "Mandy Hampton", "Congressmen Gladman, Skinner, and Willis"],
+    "themes": ["constitutional interpretation", "data accuracy", "political compromise"]
+  },
+  {
+    "label": "The First Family's Security Concerns",
+    "description": "A security breach at the White House raises concerns about the safety of the President's daughter, Zoey, leading to a tense discussion between Bartlet and his daughter about the challenges of being a public figure's child.",
+    "characters": ["President Bartlet", "Zoey Bartlet", "Ron Butterfield"],
+    "themes": ["family dynamics", "public scrutiny", "security and protection"]
+  },
+  {
+    "label": "The White House Staff's Night Out",
+    "description": "Josh, Sam, C.J., and the President's daughters go out for a night of socializing, leading to an encounter with some unwelcome guests and a display of the staff's loyalty and protectiveness.",
+    "characters": ["Josh Lyman", "Sam Seaborn", "C.J. Cregg", "Zoey Bartlet", "Mallory O'Brien", "Charlie Young"],
+    "themes": ["friendship", "loyalty", "personal and professional boundaries"]
+  },
+  {
+    "label": "Leo's Marital Troubles",
+    "description": "Leo confides in the President about his impending divorce from his wife, Jenny, leading to a discussion about the challenges of maintaining a healthy work-life balance.",
+    "characters": ["Leo McGarry", "President Bartlet"],
+    "themes": ["marriage and relationships", "work-life balance", "personal and professional responsibilities"]
+  }
+]

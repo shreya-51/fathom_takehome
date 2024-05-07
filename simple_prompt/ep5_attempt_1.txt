@@ -1,0 +1,26 @@
+Here are the story arcs I can extract from the script:
+
+1. Label: The President's Health
+   Description: Bartlet is playing basketball with his staff, but they are concerned he is pushing himself too hard. Toby tries to convince him to take a break, but Bartlet insists on continuing to play.
+   Characters: Bartlet, Toby, Josh, Charlie
+   Themes: Bartlet's competitive nature, staff caring for the President's wellbeing
+
+2. Label: The President's Cheating
+   Description: Toby accuses Bartlet of cheating at sports, citing an incident where Bartlet claimed his tennis partner worked at the American Consulate in Vienna, when it was actually Steffi Graf.
+   Characters: Bartlet, Toby, Josh
+   Themes: Bartlet's competitiveness, staff calling out the President's behavior
+
+3. Label: The President's Council on Physical Fitness
+   Description: Bartlet introduces a new member to his basketball team, Rodney Grant, who turns out to be a former college basketball player. Toby is suspicious of this "ringer" the President has brought in.
+   Characters: Bartlet, Toby, Josh, Charlie, Rodney Grant
+   Themes: Bartlet's competitiveness, staff dynamics, the President's use of resources
+
+4. The President's Chili Night
+   Description: Bartlet decides to make chili for the staff, despite the First Lady's dietary restrictions. The staff gathers in the Residence to enjoy the chili and each other's company.
+   Characters: Bartlet, Leo, C.J., Toby, Sam, Mandy, Cathy, Margaret, Josh, Zoey, Charlie
+   Themes: Bartlet's leadership, staff camaraderie, the President's personal life
+
+5. The Nuclear Attack Card
+   Description: An NSC staffer gives Josh a card with instructions on what to do in the event of a nuclear attack, but Josh is the only one who receives it, upsetting him.
+   Characters: Josh, Lacey (NSC staffer), Sam
+   Themes: Josh's anxiety, staff exclusion from emergency preparedness

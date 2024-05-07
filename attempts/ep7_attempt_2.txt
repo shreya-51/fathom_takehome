@@ -1,0 +1,72 @@
+Here is the story arc extraction in JSON format:
+
+{
+  "story_arcs": [
+    {
+      "label": "Hurricane Sarah",
+      "description": "A powerful hurricane named Sarah is heading towards Georgia and the Carolinas, requiring federal disaster relief preparations.",
+      "characters": [
+        "Josh",
+        "C.J."
+      ],
+      "themes": [
+        "Natural disaster",
+        "Federal response"
+      ]
+    },
+    {
+      "label": "Teamsters strike negotiations",
+      "description": "The Teamsters union is threatening to strike at midnight, which would cripple the country's transportation system. The White House is trying to negotiate a settlement to avoid the strike.",
+      "characters": [
+        "Leo",
+        "Russo",
+        "Little"
+      ],
+      "themes": [
+        "Labor relations",
+        "Political negotiation"
+      ]
+    },
+    {
+      "label": "Standoff in McClane, Idaho",
+      "description": "Federal authorities have surrounded a farmhouse in McClane, Idaho, where 18-40 armed survivalists are holed up, including children. The White House is trying to resolve the situation peacefully.",
+      "characters": [
+        "Mandy",
+        "Josh",
+        "Toby"
+      ],
+      "themes": [
+        "Civil liberties",
+        "Use of force"
+      ]
+    },
+    {
+      "label": "State dinner for Indonesian President",
+      "description": "The White House is hosting a state dinner for the President of Indonesia, which is complicated by the other crises happening concurrently.",
+      "characters": [
+        "Bartlet",
+        "Siguto",
+        "Toby",
+        "Josh",
+        "Sam"
+      ],
+      "themes": [
+        "Diplomacy",
+        "Hospitality"
+      ]
+    },
+    {
+      "label": "Carrier group in hurricane's path",
+      "description": "A U.S. Navy carrier group has been evacuated from Norfolk to avoid the hurricane, but is now trapped in the storm's path, requiring the President to intervene.",
+      "characters": [
+        "Bartlet",
+        "Leo",
+        "C.J."
+      ],
+      "themes": [
+        "Military operations",
+        "Crisis management"
+      ]
+    }
+  ]
+}

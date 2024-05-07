@@ -1,0 +1,67 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The White House Poker Game",
+    "description": "The President and his staff gather for a late-night poker game, where they engage in witty banter and intellectual discussions while playing cards.",
+    "characters": [
+      "President Bartlet",
+      "Leo McGarry",
+      "C.J. Cregg",
+      "Mandy Hampton",
+      "Sam Seaborn",
+      "Josh Lyman",
+      "Toby Ziegler"
+    ],
+    "themes": [
+      "Camaraderie",
+      "Intellectual Discourse",
+      "Workplace Dynamics"
+    ]
+  },
+  {
+    "label": "The Census Debate",
+    "description": "The White House staff engages in a debate over the use of sampling data in the 2000 Census, with Toby and Mandy working to convince a group of swing-vote congressmen to drop their amendment prohibiting sampling.",
+    "characters": [
+      "Toby Ziegler",
+      "Mandy Hampton",
+      "Congressman Gladman",
+      "Congressman Skinner",
+      "Congressman Willis"
+    ],
+    "themes": [
+      "Constitutional Interpretation",
+      "Partisan Politics",
+      "Policy Negotiations"
+    ]
+  },
+  {
+    "label": "Zoey's Night Out",
+    "description": "Zoey Bartlet, the President's daughter, goes out with her friends to a bar, where she is accosted by a group of men. Charlie, Josh, and Sam intervene, leading to a confrontation with the Secret Service.",
+    "characters": [
+      "Zoey Bartlet",
+      "President Bartlet",
+      "Charlie Young",
+      "Josh Lyman",
+      "Sam Seaborn"
+    ],
+    "themes": [
+      "Protective Parenting",
+      "Privilege and Security",
+      "Interpersonal Dynamics"
+    ]
+  },
+  {
+    "label": "Leo's Marital Troubles",
+    "description": "Leo McGarry reveals to the President that his wife, Jenny, is asking for a divorce, leading to a tense discussion about the importance of marriage and family.",
+    "characters": [
+      "Leo McGarry",
+      "President Bartlet"
+    ],
+    "themes": [
+      "Marriage and Relationships",
+      "Work-Life Balance",
+      "Friendship and Loyalty"
+    ]
+  }
+]

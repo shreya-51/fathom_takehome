@@ -1,0 +1,46 @@
+Here is the story arcs extracted from the given episode:
+
+{
+  "label": "Census Debate",
+  "description": "The White House staff debates the issue of using sampling data versus a traditional head count for the 2000 Census, with Toby and the President's team arguing for the use of sampling to get a more accurate count.",
+  "characters": [
+    "Toby",
+    "Mandy",
+    "Josh",
+    "Sam",
+    "Bartlet"
+  ],
+  "themes": [
+    "Constitutional interpretation",
+    "Accuracy of census data",
+    "Partisan politics"
+  ]
+},
+{
+  "label": "Leo's Marital Troubles",
+  "description": "Leo reveals to the President that his wife Jenny is asking him for a divorce, causing tension between the two longtime friends.",
+  "characters": [
+    "Leo",
+    "Bartlet"
+  ],
+  "themes": [
+    "Marriage and divorce",
+    "Friendship and loyalty"
+  ]
+},
+{
+  "label": "Zoey's Night Out",
+  "description": "Zoey goes out to a bar with her friends, leading to a confrontation with some aggressive men and prompting the President to increase her Secret Service protection.",
+  "characters": [
+    "Zoey",
+    "Bartlet",
+    "Charlie",
+    "Josh",
+    "Sam"
+  ],
+  "themes": [
+    "Parental protection",
+    "Privilege and security",
+    "Coming of age"
+  ]
+}

@@ -1,0 +1,55 @@
+Here is the JSON response with the extracted story arcs:
+
+{
+  "story_arcs": [
+    {
+      "label": "Supreme Court Nomination",
+      "description": "The White House is working to nominate a new Supreme Court justice, with Peyton Cabot Harrison III and Roberto Mendoza as the top candidates.",
+      "characters": [
+        "President Bartlet",
+        "Leo McGarry",
+        "Josh Lyman",
+        "Toby Ziegler",
+        "Sam Seaborn",
+        "C.J. Cregg",
+        "Mandy Hampton",
+        "Donna Moss"
+      ],
+      "themes": [
+        "Judicial Appointments",
+        "Constitutional Interpretation",
+        "Confirmation Process"
+      ]
+    },
+    {
+      "label": "Drug Use Allegations",
+      "description": "Congressman Peter Lillienfield makes accusations that White House staffers regularly use illegal drugs, causing a crisis for the administration.",
+      "characters": [
+        "President Bartlet",
+        "Leo McGarry",
+        "Josh Lyman",
+        "Toby Ziegler",
+        "C.J. Cregg",
+        "Mandy Hampton"
+      ],
+      "themes": [
+        "Scandal",
+        "Investigations",
+        "Drug Policy"
+      ]
+    },
+    {
+      "label": "Leo's Past Substance Abuse",
+      "description": "It's revealed that Leo McGarry is a recovering alcoholic and may have had issues with prescription drug abuse in the past, which Lillienfield threatens to expose.",
+      "characters": [
+        "Leo McGarry",
+        "Josh Lyman"
+      ],
+      "themes": [
+        "Addiction",
+        "Redemption",
+        "Abuse of Power"
+      ]
+    }
+  ]
+}

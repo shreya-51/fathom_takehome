@@ -1,0 +1,27 @@
+Here is a summary of the key story arcs in the episode:
+
+{
+  "label": "Bartlet's Chili Night",
+  "description": "President Bartlet invites the White House staff to the residence for a chili dinner, creating a lighthearted, bonding moment for the team.",
+  "characters": ["President Bartlet", "White House Staff"],
+  "themes": ["Teamwork", "Work-Life Balance"]
+},
+{
+  "label": "The Nuclear Attack Card",
+  "description": "Josh is given a card by the NSC with instructions on what to do in the event of a nuclear attack, but he is troubled that his colleagues were not given the same card.",
+  "characters": ["Josh Lyman"],
+  "themes": ["National Security", "Isolation"]
+},
+{
+  "label": "Toby's Insecurities",
+  
+  "description": "Toby is concerned that he was not the President's first choice for Communications Director, leading to tension between him and the President that they eventually resolve.",
+  "characters": ["Toby Ziegler", "President Bartlet"],
+  "themes": ["Imposter Syndrome", "Forgiveness"]
+},
+{
+  "label": "Smallpox Threat",
+  "description": "Josh becomes increasingly worried about the threat of a smallpox outbreak after reading a magazine article, highlighting the potential for a devastating public health crisis.",
+  "characters": ["Josh Lyman", "C.J. Cregg"],
+  "themes": ["National Security", "Public Health"]
+}

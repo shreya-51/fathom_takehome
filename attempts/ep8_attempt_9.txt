@@ -1,0 +1,59 @@
+Here is the story arcs extracted from the episode:
+
+[
+  {
+    "label": "The Banking Bill",
+    "description": "The White House is working to pass a banking reform bill, but faces challenges when Broderick and Eaton attach a land-use rider that would allow strip-mining in Montana.",
+    "characters": [
+      "Bartlet",
+      "Josh",
+      "Toby",
+      "Sam",
+      "Hoynes"
+    ],
+    "themes": [
+      "Politics",
+      "Legislation",
+      "Environmental Protection"
+    ]
+  },
+  {
+    "label": "Leo's Relationship with Mallory",
+    "description": "Leo's strained relationship with his daughter Mallory comes to a head when she is upset that he gave Sam a task to write a birthday message for the Assistant Transportation Secretary.",
+    "characters": [
+      "Leo",
+      "Mallory"
+    ],
+    "themes": [
+      "Family",
+      "Work-Life Balance"
+    ]
+  },
+  {
+    "label": "The Cabinet Meeting Incident",
+    "description": "There are rumors that something happened between Bartlet and Hoynes during a cabinet meeting, which C.J. tries to contain and Danny Concannon tries to investigate.",
+    "characters": [
+      "Bartlet",
+      "Hoynes",
+      "C.J.",
+      "Danny Concannon"
+    ],
+    "themes": [
+      "White House Dynamics",
+      "Transparency"
+    ]
+  },
+  {
+    "label": "Sam's Invitation to the Opera",
+    "description": "Sam is invited by Mallory to attend the Beijing Opera, but has to decline due to being asked by the President to write a birthday message, leading to tension between Sam and Mallory.",
+    "characters": [
+      "Sam",
+      "Mallory",
+      "Leo"
+    ],
+    "themes": [
+      "Relationships",
+      "Work Obligations"
+    ]
+  }
+]

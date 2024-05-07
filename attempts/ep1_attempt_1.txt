@@ -1,0 +1,48 @@
+Here is the JSON response adhering to the provided schema:
+
+{
+  "story_arcs": [
+    {
+      "label": "Josh's job security",
+      "description": "There are concerns about Josh Lyman's job security after his confrontational appearance on a TV show. The President and senior staff discuss how to handle the situation.",
+      "characters": [
+        "Josh Lyman",
+        "Leo McGarry",
+        "Toby Ziegler",
+        "C.J. Cregg",
+        "President Bartlet"
+      ],
+      "themes": [
+        "political tensions",
+        "job security",
+        "media relations"
+      ]
+    },
+    {
+      "label": "Cuban refugee crisis",
+      "description": "A large group of Cuban refugees are attempting to reach the United States, leading to a policy debate within the administration.",
+      "characters": [
+        "Josh Lyman",
+        "Sam Seaborn",
+        "Leo McGarry"
+      ],
+      "themes": [
+        "immigration",
+        "foreign policy",
+        "humanitarian crisis"
+      ]
+    },
+    {
+      "label": "Sam's personal life",
+      "description": "Sam Seaborn accidentally switches pagers with a woman he met, who turns out to be a high-priced escort.",
+      "characters": [
+        "Sam Seaborn",
+        "Laurie"
+      ],
+      "themes": [
+        "personal ethics",
+        "discretion"
+      ]
+    }
+  ]
+}

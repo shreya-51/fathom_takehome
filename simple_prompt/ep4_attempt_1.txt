@@ -1,0 +1,117 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "Gun Control Bill",
+    "description": "The White House is trying to pass a gun control bill, 802, but they are struggling to get the necessary votes in Congress. They lose 5 votes, which they have to scramble to get back.",
+    "characters": [
+      "Bartlet",
+      "Leo",
+      "Josh",
+      "Toby",
+      "Sam",
+      "C.J.",
+      "Mandy",
+      "Katzenmoyer",
+      "O'Bannon",
+      "LeBrandt",
+      "Wick",
+      "Tillinghouse",
+      "Richardson"
+    ],
+    "themes": [
+      "Politics",
+      "Gun Control",
+      "Legislation"
+    ]
+  },
+  {
+    "label": "Leo's Marriage Troubles",
+    "description": "Leo's wife, Jenny, leaves him after he prioritizes his work over their marriage. This causes Leo emotional distress as he tries to balance his personal and professional responsibilities.",
+    "characters": [
+      "Leo",
+      "Jenny"
+    ],
+    "themes": [
+      "Marriage",
+      "Work-Life Balance",
+      "Relationships"
+    ]
+  },
+  {
+    "label": "Toby's Stock Issue",
+    "description": "Toby is revealed to have made a significant amount of money from a stock investment that coincided with testimony he arranged for a friend. This raises ethical concerns and threatens to become a PR problem for the White House.",
+    "characters": [
+      "Toby",
+      "Sam",
+      "C.J.",
+      "Leela"
+    ],
+    "themes": [
+      "Ethics",
+      "Perception",
+      "Scandal"
+    ]
+  },
+  {
+    "label": "Josh's Gifts from Sarah Wissinger",
+    "description": "Josh's ex-girlfriend, Sarah Wissinger, gave him expensive gifts before they broke up, which raises questions about the nature of their relationship and Josh's integrity.",
+    "characters": [
+      "Josh",
+      "Mandy",
+      "Sarah Wissinger"
+    ],
+    "themes": [
+      "Ethics",
+      "Relationships",
+      "Perception"
+    ]
+  },
+  {
+    "label": "Bartlet's Medication and Behavior",
+    "description": "Bartlet takes a combination of medications that affects his behavior, leading to an awkward meeting with his staff where he acts strangely and requires assistance from Charlie.",
+    "characters": [
+      "Bartlet",
+      "Leo",
+      "Toby",
+      "Sam",
+      "C.J.",
+      "Josh",
+      "Mandy",
+      "Charlie"
+    ],
+    "themes": [
+      "Leadership",
+      "Health",
+      "Vulnerability"
+    ]
+  },
+  {
+    "label": "Hoynes' Involvement and Political Maneuvering",
+    "description": "The Vice President, John Hoynes, steps in to secure the crucial vote from Tillinghouse, allowing the gun control bill to pass. This gives Hoynes political capital and sets up a potential rivalry with Bartlet.",
+    "characters": [
+      "Hoynes",
+      "Tillinghouse",
+      "Josh",
+      "Leo"
+    ],
+    "themes": [
+      "Politics",
+      "Power Dynamics",
+      "Ambition"
+    ]
+  },
+  {
+    "label": "Leo's Attendance at a Secret Support Group",
+    "description": "Leo reveals to Hoynes that he attends a secret support group meeting, hinting at Leo's own personal struggles and the support network he has within the administration.",
+    "characters": [
+      "Leo",
+      "Hoynes"
+    ],
+    "themes": [
+      "Addiction",
+      "Support Systems",
+      "Vulnerability"
+    ]
+  }
+]

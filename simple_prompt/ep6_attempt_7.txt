@@ -1,0 +1,65 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The White House Poker Game",
+    "description": "The President and his staff gather for a late-night poker game, where they engage in witty banter and intellectual discussions while playing cards.",
+    "characters": [
+      "President Bartlet",
+      "Leo McGarry",
+      "C.J. Cregg",
+      "Mandy Hampton",
+      "Sam Seaborn",
+      "Josh Lyman",
+      "Toby Ziegler"
+    ],
+    "themes": [
+      "Camaraderie",
+      "Intellectual Discourse",
+      "Workplace Dynamics"
+    ]
+  },
+  {
+    "label": "The Census Debate",
+    "description": "The White House staff engages in a high-stakes negotiation with members of Congress over the use of sampling data in the 2000 Census, with Toby making a compelling argument against the proposed amendment.",
+    "characters": [
+      "Toby Ziegler",
+      "Mandy Hampton",
+      "Congressmen Gladman, Skinner, and Willis"
+    ],
+    "themes": [
+      "Constitutional Interpretation",
+      "Partisan Politics",
+      "Policy Debates"
+    ]
+  },
+  {
+    "label": "The President's Daughter in Danger",
+    "description": "Zoey Bartlet, the President's daughter, is accosted by a group of men in a bar, leading to a tense confrontation and a heartfelt conversation between Bartlet and Zoey about the challenges of being a public figure's child.",
+    "characters": [
+      "President Bartlet",
+      "Zoey Bartlet",
+      "Charlie Young",
+      "Josh Lyman",
+      "Sam Seaborn"
+    ],
+    "themes": [
+      "Parental Protectiveness",
+      "Balancing Freedom and Security",
+      "Challenges of Public Life"
+    ]
+  },
+  {
+    "label": "Leo's Marital Troubles",
+    "description": "Leo McGarry reveals to the President that his wife, Jenny, is asking for a divorce, leading to a tense discussion about the importance of maintaining a healthy marriage and family life.",
+    "characters": [
+      "Leo McGarry",
+      "President Bartlet"
+    ],
+    "themes": [
+      "Marriage and Relationships",
+      "Work-Life Balance",
+      "Loyalty and Friendship"
+    ]
+  }
+]

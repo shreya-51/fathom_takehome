@@ -1,0 +1,71 @@
+Here is the story arc extraction in JSON format:
+
+{
+  "story_arcs": [
+    {
+      "label": "Hurricane Sarah",
+      "description": "A powerful hurricane named Sarah is heading towards Georgia and the Carolinas, requiring federal disaster relief preparations.",
+      "characters": [
+        "Josh",
+        "C.J."
+      ],
+      "themes": [
+        "Natural disaster",
+        "Federal response"
+      ]
+    },
+    {
+      "label": "Teamsters strike",
+      "description": "The Teamsters union is threatening to go on strike at midnight, which would cripple the country's transportation system.",
+      "characters": [
+        "Leo",
+        "Josh",
+        "C.J."
+      ],
+      "themes": [
+        "Labor dispute",
+        "Government intervention"
+      ]
+    },
+    {
+      "label": "Standoff in McClane, Idaho",
+      "description": "The government is planning a siege on a group of armed survivalists holed up in a farmhouse in McClane, Idaho, with children involved.",
+      "characters": [
+        "Toby",
+        "Mandy",
+        "Josh"
+      ],
+      "themes": [
+        "Government overreach",
+        "Civil liberties",
+        "Use of force"
+      ]
+    },
+    {
+      "label": "State dinner for Indonesian President",
+      "description": "The White House is hosting a state dinner for the President of Indonesia, with complications around communication and translation.",
+      "characters": [
+        "Toby",
+        "Josh",
+        "Donna"
+      ],
+      "themes": [
+        "Diplomacy",
+        "Cultural differences"
+      ]
+    },
+    {
+      "label": "Carrier group in hurricane's path",
+      "description": "A U.S. Navy carrier group has been evacuated to avoid the hurricane, but is now trapped in the storm's path, requiring the President to intervene.",
+      "characters": [
+        "Bartlet",
+        "Leo",
+        "C.J."
+      ],
+      "themes": [
+        "Military operations",
+        "Crisis management"
+      ]
+    }
+  ]
+}

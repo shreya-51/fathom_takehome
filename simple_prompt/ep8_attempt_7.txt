@@ -1,0 +1,34 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The President's National Park Passion",
+    "description": "Bartlet reveals his deep fascination with national parks and tries to share his knowledge with his staff, particularly Josh. This leads to a late-night discussion about Bartlet's love of national parks.",
+    "characters": ["Bartlet", "Josh"],
+    "themes": ["Bartlet's Interests", "Relationship Between Bartlet and Staff"]
+  },
+  {
+    "label": "Leo's Strained Relationship with Mallory",
+    "description": "Leo's relationship with his daughter Mallory is strained, as she is upset with him for neglecting her and her mother. They have a tense conversation, but Bartlet intervenes to help them reconcile.",
+    "characters": ["Leo", "Mallory", "Bartlet"],
+    "themes": ["Family Dynamics", "Work-Life Balance"]
+  },
+  {
+    "label": "The Banking Bill Controversy",
+    "description": "The White House faces a challenge when a land-use rider is attached to the Banking Bill, which the President wants to pass. Toby, Josh, and the rest of the staff have to navigate this political obstacle and find a solution.",
+    "characters": ["Bartlet", "Toby", "Josh", "Mandy"],
+    "themes": ["Policymaking", "Negotiation", "Political Maneuvering"]
+  },
+  {
+    "label": "Sam's Overqualified Birthday Message",
+    "description": "Sam is tasked with writing a birthday message for the Assistant Secretary of Transportation, which he takes very seriously despite it being a relatively minor task. This leads to a humorous interaction with Mallory.",
+    "characters": ["Sam", "Mallory", "Leo", "Bartlet"],
+    "themes": ["Bartlet's Management Style", "Sam's Dedication"]
+  },
+  {
+    "label": "The Cabinet Meeting Fallout",
+    "description": "There is tension between Bartlet and Hoynes following a confrontation in the cabinet meeting, which leads to a private conversation where they address their past issues.",
+    "characters": ["Bartlet", "Hoynes"],
+    "themes": ["Relationship Between Bartlet and Hoynes", "Tension in the Administration"]
+  }
+]

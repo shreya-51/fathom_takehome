@@ -1,0 +1,28 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The White House Poker Game",
+    "description": "The President and his staff gather for a late-night poker game, where they engage in witty banter and intellectual challenges.",
+    "characters": ["President Bartlet", "Leo", "C.J.", "Mandy", "Sam", "Josh", "Toby"],
+    "themes": ["camaraderie", "intellectual discourse", "political intrigue"]
+  },
+  {
+    "label": "The Census Debate",
+    "description": "The White House team negotiates with a group of Congressmen to drop an amendment that would prohibit the use of sampling data in the 2000 Census, a move that could significantly impact the accuracy of the count.",
+    "characters": ["Toby", "Mandy", "Josh", "Gladman", "Skinner", "Willis"],
+    "themes": ["constitutional interpretation", "political compromise", "data accuracy"]
+  },
+  {
+    "label": "The First Daughter's Night Out",
+    "description": "Zoey, the President's daughter, goes out with her friends, leading to a confrontation with some aggressive bar patrons and a tense discussion with her father about her security and independence.",
+    "characters": ["Zoey Bartlet", "President Bartlet", "Charlie", "Josh", "Sam"],
+    "themes": ["presidential family dynamics", "personal freedom vs. security", "coming of age"]
+  },
+  {
+    "label": "Leo's Marital Troubles",
+    "description": "Leo confides in the President that his wife, Jenny, is asking for a divorce, leading to a heated discussion about the importance of maintaining a healthy marriage.",
+    "characters": ["Leo", "President Bartlet"],
+    "themes": ["marriage and family", "work-life balance", "personal responsibility"]
+  }
+]

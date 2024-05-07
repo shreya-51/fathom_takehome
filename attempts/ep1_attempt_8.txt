@@ -1,0 +1,60 @@
+Here is the JSON response adhering to the provided schema:
+
+{
+  "story_arcs": [
+    {
+      "label": "The President's Bicycle Accident",
+      "description": "The President is injured in a bicycle accident, which becomes a news story that the White House staff must manage.",
+      "characters": [
+        "President Bartlet",
+        "Leo McGarry",
+        "C.J. Cregg",
+        "Josh Lyman"
+      ],
+      "themes": [
+        "Political crisis management",
+        "Relationship between the President and his staff"
+      ]
+    },
+    {
+      "label": "The Cuban Refugee Crisis",
+      "description": "A large group of Cuban refugees attempt to flee to the United States, creating a policy challenge for the White House.",
+      "characters": [
+        "Josh Lyman",
+        "Sam Seaborn",
+        "Toby Ziegler"
+      ],
+      "themes": [
+        "Immigration policy",
+        "Humanitarian crisis"
+      ]
+    },
+    {
+      "label": "Josh Lyman's Relationship with the Christian Right",
+      "description": "Josh Lyman's confrontational interaction with representatives of the Christian Right, including Mary Marsh and John Van Dyke, threatens his job.",
+      "characters": [
+        "Josh Lyman",
+        "Toby Ziegler",
+        "Mary Marsh",
+        "John Van Dyke",
+        "Al Caldwell"
+      ],
+      "themes": [
+        "Political polarization",
+        "Religious influence in politics"
+      ]
+    },
+    {
+      "label": "Sam Seaborn's Personal Indiscretion",
+      "description": "Sam Seaborn accidentally sleeps with a woman who turns out to be a high-priced escort, creating a potential scandal.",
+      "characters": [
+        "Sam Seaborn",
+        "Laurie"
+      ],
+      "themes": [
+        "Ethical dilemmas",
+        "Work-life balance"
+      ]
+    }
+  ]
+}

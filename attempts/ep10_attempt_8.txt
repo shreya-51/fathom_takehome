@@ -1,0 +1,49 @@
+Here is the JSON response with the extracted story arcs:
+
+{
+  "story_arcs": [
+    {
+      "label": "Honoring a Forgotten Veteran",
+      "description": "Toby Ziegler discovers the body of a homeless Korean War veteran and arranges a military funeral for him, despite his initial discomfort and uncertainty about the situation.",
+      "characters": [
+        "Toby Ziegler",
+        "Walter Hufnagle",
+        "George Hufnagle"
+      ],
+      "themes": [
+        "Honoring veterans",
+        "Homelessness",
+        "Bureaucracy and indifference"
+      ]
+    },
+    {
+      "label": "Protecting a Colleague's Secret",
+      "description": "Josh and Sam attempt to preemptively protect Leo McGarry's past struggles with addiction from being exposed by a political rival.",
+      "characters": [
+        "Josh Lyman",
+        "Sam Seaborn",
+        "Leo McGarry"
+      ],
+      "themes": [
+        "Loyalty",
+        "Political scandal",
+        "Addiction"
+      ]
+    },
+    {
+      "label": "Navigating the Holiday Season",
+      "description": "The White House staff navigate the challenges and personal reflections that come with the Christmas holiday, including Mrs. Landingham's grief over the loss of her sons.",
+      "characters": [
+        "President Bartlet",
+        "Mrs. Landingham",
+        "C.J. Cregg",
+        "Donna Moss"
+      ],
+      "themes": [
+        "Grief and loss",
+        "Holiday traditions",
+        "Work-life balance"
+      ]
+    }
+  ]
+}

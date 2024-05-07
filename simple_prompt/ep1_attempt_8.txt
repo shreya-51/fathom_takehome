@@ -1,0 +1,79 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "Josh's Relationship with the Christian Right",
+    "description": "Josh's confrontational approach with the Christian Right, particularly Mary Marsh and John Van Dyke, creates tension within the administration. The President intervenes to resolve the conflict.",
+    "characters": [
+      "Josh Lyman",
+      "Mary Marsh",
+      "John Van Dyke",
+      "Al Caldwell",
+      "President Bartlet"
+    ],
+    "themes": [
+      "Politics",
+      "Religion",
+      "Conflict Resolution"
+    ]
+  },
+  {
+    "label": "The Cuban Refugee Crisis",
+    "description": "The administration grapples with how to handle the influx of Cuban refugees attempting to reach the United States, balancing humanitarian concerns with political realities.",
+    "characters": [
+      "Josh Lyman",
+      "Sam Seaborn",
+      "Toby Ziegler",
+      "C.J. Cregg",
+      "Leo McGarry"
+    ],
+    "themes": [
+      "Immigration",
+      "Foreign Policy",
+      "Bureaucracy"
+    ]
+  },
+  {
+    "label": "Sam's Personal Entanglement",
+    "description": "Sam Seaborn accidentally switches pagers with a high-end escort, leading to an awkward situation and raising questions about his personal life.",
+    "characters": [
+      "Sam Seaborn",
+      "Laurie"
+    ],
+    "themes": [
+      "Ethics",
+      "Relationships",
+      "Discretion"
+    ]
+  },
+  {
+    "label": "Josh's Uncertain Future",
+    "description": "Josh's confrontational behavior on a TV talk show puts his job at risk, leading to discussions within the administration about his future.",
+    "characters": [
+      "Josh Lyman",
+      "Leo McGarry",
+      "Toby Ziegler",
+      "C.J. Cregg",
+      "Donna Moss"
+    ],
+    "themes": [
+      "Politics",
+      "Loyalty",
+      "Consequences"
+    ]
+  },
+  {
+    "label": "Mandy's Return to Politics",
+    "description": "Mandy Hampton, a former campaign strategist, returns to the political arena and begins working for a potential rival to the President.",
+    "characters": [
+      "Mandy Hampton",
+      "Josh Lyman",
+      "Lloyd Russell"
+    ],
+    "themes": [
+      "Rivalry",
+      "Ambition",
+      "Shifting Alliances"
+    ]
+  }
+]

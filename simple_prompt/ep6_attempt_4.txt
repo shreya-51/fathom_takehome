@@ -1,0 +1,68 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The White House Poker Game",
+    "description": "The President and his staff gather for a late-night poker game, where they engage in witty banter and intellectual discussions while playing cards.",
+    "characters": [
+      "President Bartlet",
+      "Leo McGarry",
+      "C.J. Cregg",
+      "Mandy Hampton",
+      "Sam Seaborn",
+      "Josh Lyman",
+      "Toby Ziegler"
+    ],
+    "themes": [
+      "Camaraderie",
+      "Intellectual Discourse",
+      "Workplace Dynamics"
+    ]
+  },
+  {
+    "label": "The Census Debate",
+    "description": "The White House staff engages in a heated debate with members of Congress over the use of sampling data in the 2000 Census, with Toby making a compelling argument against the proposed amendment.",
+    "characters": [
+      "Toby Ziegler",
+      "Mandy Hampton",
+      "Congressman Gladman",
+      "Congressman Skinner",
+      "Congressman Willis"
+    ],
+    "themes": [
+      "Constitutional Interpretation",
+      "Partisan Politics",
+      "Policy Debates"
+    ]
+  },
+  {
+    "label": "The First Daughter's Security",
+    "description": "President Bartlet grapples with the need to protect his daughter Zoey while also allowing her the freedom to have a normal college experience, leading to a tense confrontation and a deeper understanding of the challenges of being a public figure.",
+    "characters": [
+      "President Bartlet",
+      "Zoey Bartlet",
+      "Charlie Young"
+    ],
+    "themes": [
+      "Parental Responsibility",
+      "Work-Life Balance",
+      "Security Concerns"
+    ]
+  },
+  {
+    "label": "The White House Staff's Night Out",
+    "description": "Josh, Sam, and the rest of the White House staff take Charlie and the President's daughters out for a night of socializing, leading to a tense confrontation at a bar and a demonstration of the staff's loyalty and camaraderie.",
+    "characters": [
+      "Josh Lyman",
+      "Sam Seaborn",
+      "Charlie Young",
+      "Zoey Bartlet",
+      "Mallory O'Brien"
+    ],
+    "themes": [
+      "Friendship",
+      "Protecting the President's Family",
+      "Navigating Social Situations"
+    ]
+  }
+]

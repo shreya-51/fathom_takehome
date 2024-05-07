@@ -1,0 +1,26 @@
+Here is a summary of the key story arcs in the episode:
+
+{
+  "label": "Bartlet's Chili Night",
+  "description": "The President invites the White House staff to the residence for a chili dinner, creating a lighthearted, bonding moment for the team.",
+  "characters": ["President Bartlet", "Leo", "Josh", "Zoey Bartlet", "Charlie"],
+  "themes": ["teamwork", "camaraderie", "work-life balance"]
+},
+{
+  "label": "Smallpox Concerns",
+  "description": "Josh is troubled after receiving a card from the NSC with instructions on what to do in the event of a nuclear attack, realizing he was given special treatment that his colleagues did not receive.",
+  "characters": ["Josh", "Stanley (psychiatrist)"],
+  "themes": ["national security", "emergency preparedness", "isolation"]
+},
+{
+  "label": "Toby's Insecurities",
+  "description": "Toby is concerned that he was not the President's first choice for Communications Director, leading to a heartfelt conversation where Bartlet reassures Toby of his value.",
+  "characters": ["Toby", "President Bartlet"],
+  "themes": ["self-doubt", "trust", "mentorship"]
+},
+{
+  "label": "Wolves and Vending Machines",
+  "description": "C.J. has an amusing discussion with the staff about a proposal for a "wolves-only roadway" and the surprising statistics around vending machine-related deaths.",
+  "characters": ["C.J.", "Leo", "Mandy", "Cathy", "Donna", "Margaret"],
+  "themes": ["environmentalism", "fact-checking", "absurdity"]
+}

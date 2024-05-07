@@ -1,0 +1,20 @@
+Here is a summary of the key story arcs in the episode:
+
+{
+  "label": "Bartlet's Chili Night",
+  "description": "President Bartlet invites the White House staff to the residence for a chili dinner, bringing the team together in a more casual setting.",
+  "characters": ["President Bartlet", "Leo", "Josh", "C.J.", "Toby", "Sam", "Mandy", "Mrs. Landingham", "Zoey Bartlet", "Charlie"],
+  "themes": ["teamwork", "work-life balance", "Bartlet's leadership"]
+},
+{
+  "label": "Josh's Concerns About the NSC Card",
+  "description": "Josh is given a special card by the NSC with instructions on what to do in the event of a nuclear attack, which he finds upsetting as it means he would be separated from his colleagues and friends.",
+  "characters": ["Josh", "Stanley (Josh's psychiatrist)"],
+  "themes": ["emergency preparedness", "loyalty", "trauma"]
+},
+{
+  "label": "Toby's Insecurities About His Role",
+  "description": "Toby worries that he was not the President's first choice for Communications Director, leading to a discussion with Bartlet where they clear the air.",
+  "characters": ["Toby", "Bartlet", "Mandy"],
+  "themes": ["self-doubt", "trust", "communication"]
+}

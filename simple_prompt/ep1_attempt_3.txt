@@ -1,0 +1,34 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "Josh's Relationship with the Christian Right",
+    "description": "Josh's confrontation with Mary Marsh and the Christian Right group leads to tensions within the administration. Josh is at risk of being fired, but the President ultimately defends him.",
+    "characters": ["Josh Lyman", "Mary Marsh", "Al Caldwell", "John Van Dyke"],
+    "themes": ["political conflict", "religious values", "free speech"]
+  },
+  {
+    "label": "The Cuban Refugee Crisis",
+    "description": "The administration grapples with how to handle the influx of Cuban refugees attempting to reach the United States, with tensions between different government agencies and political considerations.",
+    "characters": ["Leo McGarry", "Josh Lyman", "Sam Seaborn", "Toby Ziegler"],
+    "themes": ["immigration", "national security", "humanitarian crisis"]
+  },
+  {
+    "label": "Sam's Personal Dilemma",
+    "description": "Sam accidentally switches pagers with a woman he met, who turns out to be a high-priced escort. He struggles with how to handle the situation.",
+    "characters": ["Sam Seaborn", "Laurie"],
+    "themes": ["ethics", "personal relationships", "moral dilemmas"]
+  },
+  {
+    "label": "The President's Bicycle Accident",
+    "description": "The President's bicycle accident and injury become a source of humor and concern within the administration, highlighting the President's human side and the challenges of managing the public perception.",
+    "characters": ["President Bartlet", "Leo McGarry", "C.J. Cregg"],
+    "themes": ["leadership", "public image", "work-life balance"]
+  },
+  {
+    "label": "Mandy's Return and Relationship with Lloyd Russell",
+    "description": "Mandy Hampton, a former member of the administration, returns to Washington and begins working for Senator Lloyd Russell, who is seen as a potential political rival to the President.",
+    "characters": ["Mandy Hampton", "Josh Lyman", "Lloyd Russell"],
+    "themes": ["political rivalries", "personal relationships", "power dynamics"]
+  }
+]

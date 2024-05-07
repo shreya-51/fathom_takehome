@@ -1,0 +1,41 @@
+Here is the story arcs extracted from the episode:
+
+{
+  "label": "Census Debate",
+  "description": "The White House is working to pass an Appropriations Bill that includes provisions related to the census. There is a debate over whether to allow sampling data as a legitimate component of the 2000 Census, which is opposed by some members of Congress.",
+  "characters": [
+    "Toby",
+    "Mandy",
+    "Gladman",
+    "Skinner",
+    "Willis"
+  ],
+  "themes": [
+    "Constitutional interpretation",
+    "Partisan politics",
+    "Government efficiency"
+  ]
+},
+{
+  "label": "Leo's Marital Issues",
+  "description": "Leo reveals to the President that his wife Jenny is asking him for a divorce, which shocks the President.",
+  "characters": [
+    "Leo",
+    "Bartlet"
+  ],
+  "themes": [
+    "Marriage and family",
+    "Work-life balance"
+  ]
+},
+{
+  "label": "Zoey's Security Concerns",
+  "description": "Zoey gets into an incident at a bar where she is harassed by some men, leading the President to increase her Secret Service protection, much to Zoey's dismay.",
+  "characters": [
+    "Zoey",
+    "Bartlet"
+  ],
+  "themes": [
+    "Presidential family",
+    "Security and protection"
+  ]

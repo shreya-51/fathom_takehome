@@ -1,0 +1,62 @@
+Here is the story arc analysis in JSON format:
+
+{
+  "story_arcs": [
+    {
+      "label": "Josh's Relationship with the Christian Right",
+      "description": "Josh's confrontational relationship with the Christian Right, represented by figures like Mary Marsh and John Van Dyke, creates tension within the administration. This arc explores the political dynamics and Josh's handling of the situation.",
+      "characters": [
+        "Josh Lyman",
+        "Mary Marsh",
+        "John Van Dyke",
+        "Al Caldwell"
+      ],
+      "themes": [
+        "Political Dynamics",
+        "Religious Influence in Politics",
+        "Compromise and Negotiation"
+      ]
+    },
+    {
+      "label": "Sam's Personal Dilemma",
+      "description": "Sam Seaborn accidentally ends up in a compromising situation with a woman who turns out to be an escort, forcing him to confront his own judgment and the implications for his job.",
+      "characters": [
+        "Sam Seaborn",
+        "Laurie"
+      ],
+      "themes": [
+        "Personal Integrity",
+        "Ethical Dilemmas",
+        "Work-Life Balance"
+      ]
+    },
+    {
+      "label": "The President's Bicycle Accident",
+      "description": "The President's bicycle accident and his subsequent reaction to it reveal his personal side and leadership style, as well as the administration's handling of the situation.",
+      "characters": [
+        "President Bartlet",
+        "Leo McGarry",
+        "C.J. Cregg"
+      ],
+      "themes": [
+        "Leadership",
+        "Work-Life Balance",
+        "Transparency and Accountability"
+      ]
+    },
+    {
+      "label": "The Cuban Refugee Crisis",
+      "description": "The administration grapples with the influx of Cuban refugees attempting to reach the United States, highlighting the complex policy and humanitarian issues involved.",
+      "characters": [
+        "Josh Lyman",
+        "Sam Seaborn",
+        "Toby Ziegler"
+      ],
+      "themes": [
+        "Immigration Policy",
+        "Humanitarian Concerns",
+        "Interagency Coordination"
+      ]
+    }
+  ]
+}

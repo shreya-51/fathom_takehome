@@ -1,0 +1,71 @@
+Here is the JSON response with the extracted story arcs from the given episode:
+
+{
+  "story_arcs": [
+    {
+      "label": "Gun Control Legislation",
+      "description": "The White House staff is working to pass a gun control bill (802) through Congress, but they are facing challenges in securing the necessary votes.",
+      "characters": [
+        "Bartlet",
+        "Leo",
+        "Josh",
+        "Toby",
+        "Sam",
+        "C.J.",
+        "Mandy",
+        "Katzenmoyer",
+        "O'Bannon",
+        "LeBrandt",
+        "Wick",
+        "Tillinghouse",
+        "Richardson"
+      ],
+      "themes": [
+        "Gun Control",
+        "Legislative Process",
+        "Partisan Politics"
+      ]
+    },
+    {
+      "label": "Leo's Marital Issues",
+      "description": "Leo is struggling with his marriage to Jenny, as she decides to leave him due to his constant work commitments and lack of time for their relationship.",
+      "characters": [
+        "Leo",
+        "Jenny"
+      ],
+      "themes": [
+        "Marriage",
+        "Work-Life Balance"
+      ]
+    },
+    {
+      "label": "Toby's Financial Disclosure Controversy",
+      "description": "Toby is facing a potential scandal related to his personal financial investments and a friend's testimony to Congress, which led to a significant increase in the value of Toby's stock holdings.",
+      "characters": [
+        "Toby",
+        "Sam",
+        "Bartlet",
+        "Leela (White House Counsel's Office)"
+      ],
+      "themes": [
+        "Ethics",
+        "Transparency",
+        "Abuse of Power"
+      ]
+    },
+    {
+      "label": "Vice President Hoynes' Political Maneuvering",
+      "description": "Vice President Hoynes steps in to secure the crucial vote from Congressman Tillinghouse, allowing the gun control bill to pass, and positioning himself for a potential future presidential run.",
+      "characters": [
+        "Hoynes",
+        "Tillinghouse",
+        "Josh"
+      ],
+      "themes": [
+        "Partisan Politics",
+        "Political Ambition",
+        "Backroom Deals"
+      ]
+    }
+  ]
+}

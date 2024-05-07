@@ -1,0 +1,62 @@
+Here is the JSON response with the extracted story arcs:
+
+{
+  "story_arcs": [
+    {
+      "label": "Honoring a Forgotten Veteran",
+      "description": "Toby Ziegler discovers the body of a homeless Korean War veteran and arranges a military funeral for him, despite initial reluctance from the President.",
+      "characters": [
+        "Toby Ziegler",
+        "President Bartlet",
+        "Mrs. Landingham"
+      ],
+      "themes": [
+        "Honoring veterans",
+        "Homelessness",
+        "Bureaucracy"
+      ]
+    },
+    {
+      "label": "Protecting Leo's Past",
+      "description": "Josh and Sam attempt to get information from a high-priced escort to prevent a damaging story about Leo's past from being revealed.",
+      "characters": [
+        "Josh Lyman",
+        "Sam Seaborn",
+        "Leo McGarry"
+      ],
+      "themes": [
+        "Political scandal",
+        "Abuse of power",
+        "Moral dilemmas"
+      ]
+    },
+    {
+      "label": "Hate Crimes Legislation",
+      "description": "C.J. and Leo debate the merits of pursuing new hate crimes legislation in the wake of a brutal attack on a gay teenager.",
+      "characters": [
+        "C.J. Cregg",
+        "Leo McGarry"
+      ],
+      "themes": [
+        "Civil rights",
+        "Discrimination",
+        "Political strategy"
+      ]
+    },
+    {
+      "label": "Christmas at the White House",
+      "description": "The White House staff prepares for the annual Christmas celebration, including the President's secret shopping trip and the staff's personal holiday plans.",
+      "characters": [
+        "President Bartlet",
+        "Mandy Hampton",
+        "Josh Lyman",
+        "Donna Moss"
+      ],
+      "themes": [
+        "Holidays",
+        "Work-life balance",
+        "Traditions"
+      ]
+    }
+  ]
+}

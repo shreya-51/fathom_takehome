@@ -1,0 +1,60 @@
+Here is the story arc extraction in JSON format:
+
+{
+  "story_arcs": [
+    {
+      "label": "Hurricane Sarah",
+      "description": "A powerful hurricane named Sarah is heading towards Georgia and the Carolinas, requiring federal disaster relief preparations.",
+      "characters": [
+        "Josh",
+        "C.J."
+      ],
+      "themes": [
+        "Natural disaster",
+        "Federal response"
+      ]
+    },
+    {
+      "label": "Teamsters strike",
+      "description": "The Teamsters union is threatening to go on strike at midnight, which would cripple the country's transportation system.",
+      "characters": [
+        "Leo",
+        "Josh",
+        "C.J.",
+        "Toby"
+      ],
+      "themes": [
+        "Labor dispute",
+        "Government intervention"
+      ]
+    },
+    {
+      "label": "Standoff in Idaho",
+      "description": "The government is planning a siege on a group of armed survivalists holed up in a farmhouse in Idaho, with children involved.",
+      "characters": [
+        "Toby",
+        "Mandy",
+        "Josh"
+      ],
+      "themes": [
+        "Government overreach",
+        "Civil liberties",
+        "Use of force"
+      ]
+    },
+    {
+      "label": "Carrier group in hurricane",
+      "description": "A U.S. Navy carrier group is trapped in the path of Hurricane Sarah, with communications down and the ships in grave danger.",
+      "characters": [
+        "Bartlet",
+        "Leo",
+        "C.J."
+      ],
+      "themes": [
+        "Natural disaster",
+        "Military operations",
+        "Presidential leadership"
+      ]
+    }
+  ]
+}

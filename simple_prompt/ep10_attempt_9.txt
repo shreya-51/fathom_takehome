@@ -1,0 +1,28 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The White House Holiday Celebration",
+    "description": "The White House staff is preparing for the annual holiday celebration, including decorating the lobby, selecting performers, and deciding on the costumes for the event.",
+    "characters": ["Mandy", "C.J.", "Toby", "Sam"],
+    "themes": ["holiday traditions", "White House operations"]
+  },
+  {
+    "label": "The Death of a Homeless Veteran",
+    "description": "Toby is informed that a homeless Korean War veteran, Walter Hufnagle, has died of exposure near the Korean War Memorial. Toby takes it upon himself to arrange a proper military funeral for the veteran.",
+    "characters": ["Toby", "George Hufnagle", "Homeless Man"],
+    "themes": ["homelessness", "veteran affairs", "compassion"]
+  },
+  {
+    "label": "Lillienfield's Threat",
+    "description": "Josh and Sam learn that a congressman, Lillienfield, is planning to expose that Leo was a recovering alcoholic and took Valium while serving as Secretary of Labor. They attempt to get information from a high-end escort, Laurie, to use as leverage against Lillienfield.",
+    "characters": ["Josh", "Sam", "Leo", "Laurie"],
+    "themes": ["political scandal", "ethics", "loyalty"]
+  },
+  {
+    "label": "Hate Crimes Legislation",
+    "description": "C.J. advocates for the administration to support new hate crimes legislation in the wake of a brutal attack on a gay teenager. Leo cautions her to be more measured in her approach, as the administration is still undecided on the issue.",
+    "characters": ["C.J.", "Leo", "Danny"],
+    "themes": ["civil rights", "social justice", "political decision-making"]
+  }
+]

@@ -1,0 +1,86 @@
+Here is the JSON response with the extracted story arcs:
+
+{
+  "story_arcs": [
+    {
+      "label": "Honoring a Forgotten Veteran",
+      "description": "Toby Ziegler discovers the body of a homeless Korean War veteran and arranges a military funeral for him, despite his initial discomfort and uncertainty about doing so.",
+      "characters": [
+        "Toby Ziegler",
+        "Walter Hufnagle",
+        "George Hufnagle"
+      ],
+      "themes": [
+        "Honoring military service",
+        "Homelessness and neglect of veterans",
+        "Toby's personal struggle with the situation"
+      ]
+    },
+    {
+      "label": "Preparing for the White House Holiday Celebration",
+      "description": "Mandy, C.J., Toby, and Sam discuss the details and logistics of the White House's holiday celebration, including the choice of Santa hats versus Dickensian costumes for the carolers.",
+      "characters": [
+        "Mandy",
+        "C.J.",
+        "Toby",
+        "Sam"
+      ],
+      "themes": [
+        "White House holiday traditions",
+        "Coordinating the logistics of a major event"
+      ]
+    },
+    {
+      "label": "Dealing with a Potential Political Scandal",
+      "description": "Josh and Sam attempt to get information from a high-end escort, Laurie, to preemptively address a potential political scandal involving Leo's past substance abuse issues.",
+      "characters": [
+        "Josh Lyman",
+        "Sam Seaborn",
+        "Laurie"
+      ],
+      "themes": [
+        "Protecting a colleague from political fallout",
+        "Ethical dilemmas in political strategy",
+        "Abuse of power and influence"
+      ]
+    },
+    {
+      "label": "Debating Hate Crimes Legislation",
+      "description": "C.J. and Leo discuss the administration's approach to hate crimes legislation in the wake of a brutal attack on a gay teenager.",
+      "characters": [
+        "C.J.",
+        "Leo"
+      ],
+      "themes": [
+        "Balancing political considerations and moral imperatives",
+        "The role of government in addressing hate crimes"
+      ]
+    },
+    {
+      "label": "Bartlet's Secret Christmas Shopping Trip",
+      "description": "President Bartlet sneaks out of the White House to do some last-minute Christmas shopping at a rare bookstore, much to the chagrin of his staff.",
+      "characters": [
+        "President Bartlet",
+        "Mandy",
+        "Josh",
+        "Sam"
+      ],
+      "themes": [
+        "The President's desire for privacy and normalcy",
+        "The challenges of managing the President's schedule and public image"
+      ]
+    },
+    {
+      "label": "Donna and Josh's Evolving Relationship",
+      "description": "Donna receives a thoughtful Christmas gift from Josh, which prompts a heartfelt moment between the two and hints at the growing emotional connection between them.",
+      "characters": [
+        "Donna",
+        "Josh"
+      ],
+      "themes": [
+        "Developing personal relationships in a professional setting",
+        "Emotional vulnerability and growth"
+      ]
+    }
+  ]
+}

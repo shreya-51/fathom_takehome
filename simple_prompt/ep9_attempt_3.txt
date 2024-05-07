@@ -1,0 +1,22 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "Supreme Court Nomination",
+    "description": "The White House staff works to nominate a new Supreme Court Justice, facing challenges along the way.",
+    "characters": ["President Bartlet", "Josh", "Toby", "Sam", "C.J.", "Mandy", "Leo"],
+    "themes": ["politics", "law", "ethics", "privacy rights"]
+  },
+  {
+    "label": "Lillienfield's Accusations",
+    "description": "Congressman Lillienfield makes accusations about drug use among White House staffers, causing a crisis that the staff must navigate.",
+    "characters": ["Josh", "Toby", "C.J.", "Leo"],
+    "themes": ["ethics", "reputation", "scandal"]
+  },
+  {
+    "label": "Leo's Past",
+    "description": "Leo's past struggles with substance abuse are threatened to be exposed, putting his position and the administration at risk.",
+    "characters": ["Leo", "Josh"],
+    "themes": ["addiction", "redemption", "trust"]
+  }
+]

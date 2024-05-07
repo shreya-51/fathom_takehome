@@ -1,0 +1,60 @@
+Here is the JSON response with the extracted story arcs:
+
+{
+  "story_arcs": [
+    {
+      "label": "Retaliation for the downing of an American plane",
+      "description": "The President orders a military strike against four targets in Syria in response to the downing of an American plane, which killed 58 passengers.",
+      "characters": [
+        "President Bartlet",
+        "Leo McGarry",
+        "Admiral Fitzwallace",
+        "Toby Ziegler",
+        "Sam Seaborn"
+      ],
+      "themes": [
+        "Proportional response",
+        "Consequences of military action",
+        "Patriotism and national security"
+      ]
+    },
+    {
+      "label": "Sam Seaborn's relationship with a call girl",
+      "description": "C.J. confronts Sam about his relationship with a woman who turns out to be a call girl, and warns him about the potential political fallout.",
+      "characters": [
+        "Sam Seaborn",
+        "C.J. Cregg"
+      ],
+      "themes": [
+        "Ethics and morality in government",
+        "Reputation and public perception"
+      ]
+    },
+    {
+      "label": "Charlie Young's backstory and hiring as the President's personal aide",
+      "description": "Josh interviews Charlie Young, a young man whose mother was recently killed in the line of duty as a police officer, for the position of the President's personal aide.",
+      "characters": [
+        "Charlie Young",
+        "Josh Lyman",
+        "President Bartlet"
+      ],
+      "themes": [
+        "Opportunity and public service",
+        "Grief and personal loss"
+      ]
+    },
+    {
+      "label": "Congressman Bertram Coles' threat against the President",
+      "description": "Toby and Leo discuss a threat made by Congressman Bertram Coles against the President, who said the President would not get out of his district alive if he visited.",
+      "characters": [
+        "Toby Ziegler",
+        "Leo McGarry",
+        "Congressman Bertram Coles"
+      ],
+      "themes": [
+        "Political tensions and partisanship",
+        "Abuse of power"
+      ]
+    }
+  ]
+}

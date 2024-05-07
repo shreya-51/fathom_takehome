@@ -1,0 +1,28 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "Josh's Relationship with the Christian Right",
+    "description": "Josh's confrontational approach with the Christian Right, particularly Mary Marsh and John Van Dyke, threatens his job and the administration's relationship with this important political constituency.",
+    "characters": ["Josh Lyman", "Mary Marsh", "John Van Dyke", "Al Caldwell"],
+    "themes": ["political conflict", "religious values", "job security"]
+  },
+  {
+    "label": "The Cuban Refugee Crisis",
+    "description": "The administration grapples with how to handle the influx of Cuban refugees attempting to reach the United States, balancing humanitarian concerns with political realities.",
+    "characters": ["Leo McGarry", "Josh Lyman", "Toby Ziegler", "Sam Seaborn"],
+    "themes": ["immigration", "foreign policy", "political pragmatism"]
+  },
+  {
+    "label": "Sam's Personal Indiscretion",
+    "description": "Sam Seaborn accidentally spends the night with a woman who turns out to be a high-priced escort, creating a potential scandal and security risk for the administration.",
+    "characters": ["Sam Seaborn", "Laurie"],
+    "themes": ["personal ethics", "abuse of power", "security concerns"]
+  },
+  {
+    "label": "The President's Bicycle Accident",
+    "description": "President Bartlet's embarrassing bicycle accident and injury become a source of humor and concern for the administration, highlighting the President's human flaws and the staff's efforts to manage the fallout.",
+    "characters": ["President Bartlet", "Leo McGarry", "C.J. Cregg"],
+    "themes": ["presidential image", "crisis management", "staff dynamics"]
+  }
+]

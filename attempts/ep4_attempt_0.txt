@@ -1,0 +1,83 @@
+Here is the JSON response with the extracted story arcs from the given episode:
+
+{
+  "story_arcs": [
+    {
+      "label": "Gun Control Legislation",
+      "description": "The White House staff is working to pass a gun control bill (802) through Congress, but they are facing challenges in securing the necessary votes.",
+      "characters": [
+        "Bartlet",
+        "Leo",
+        "Josh",
+        "Toby",
+        "Sam",
+        "C.J.",
+        "Mandy"
+      ],
+      "themes": [
+        "Gun Control",
+        "Legislative Process",
+        "Partisan Politics"
+      ]
+    },
+    {
+      "label": "Toby's Stock Market Gains",
+      "description": "Toby has unexpectedly made a large profit from a stock investment, which raises concerns about potential insider trading and the perception of impropriety.",
+      "characters": [
+        "Toby",
+        "Sam",
+        "C.J."
+      ],
+      "themes": [
+        "Ethics",
+        "Perception Management",
+        "Financial Disclosure"
+      ]
+    },
+    {
+      "label": "Leo's Marital Troubles",
+      "description": "Leo's wife, Jenny, decides to separate from him due to his constant focus on his work at the White House, which is straining their marriage.",
+      "characters": [
+        "Leo",
+        "Jenny"
+      ],
+      "themes": [
+        "Work-Life Balance",
+        "Marital Conflict",
+        "Priorities"
+      ]
+    },
+    {
+      "label": "Bartlet's Medication and Impairment",
+      "description": "Bartlet accidentally takes a combination of medications that impairs his judgment and behavior, leading the staff to try to manage the situation discreetly.",
+      "characters": [
+        "Bartlet",
+        "Leo",
+        "Toby",
+        "Sam",
+        "C.J.",
+        "Josh",
+        "Charlie"
+      ],
+      "themes": [
+        "Presidential Fitness",
+        "Medication Side Effects",
+        "Staff Discretion"
+      ]
+    },
+    {
+      "label": "Vice President Hoynes' Political Maneuvering",
+      "description": "Vice President Hoynes steps in to secure the crucial vote from Congressman Tillinghouse, allowing the gun control bill to pass, and positioning himself for future political gain.",
+      "characters": [
+        "Hoynes",
+        "Tillinghouse",
+        "Josh"
+      ],
+      "themes": [
+        "Vice Presidential Power",
+        "Political Opportunism",
+        "Legislative Bargaining"
+      ]
+    }
+  ]
+}

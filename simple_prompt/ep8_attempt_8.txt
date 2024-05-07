@@ -1,0 +1,34 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The President's National Park Passion",
+    "description": "Bartlet reveals his deep fascination with national parks and tries to share his knowledge with his staff, particularly Josh. This leads to a late-night discussion about Bartlet's love of national parks.",
+    "characters": ["Bartlet", "Josh"],
+    "themes": ["Bartlet's Interests", "Relationship Between Bartlet and Staff"]
+  },
+  {
+    "label": "Leo's Strained Relationship with Mallory",
+    "description": "Leo's relationship with his daughter Mallory is strained, as she is upset with him for neglecting her and her mother. This leads to a confrontation where Bartlet intervenes to try and mend their relationship.",
+    "characters": ["Leo", "Mallory", "Bartlet"],
+    "themes": ["Family Dynamics", "Work-Life Balance"]
+  },
+  {
+    "label": "The Banking Bill Controversy",
+    "description": "The White House faces a challenge when a land-use rider is attached to the Banking Bill, which Bartlet and his staff must navigate. This leads to tensions between Josh, Toby, and Mandy over how to handle the situation.",
+    "characters": ["Bartlet", "Josh", "Toby", "Mandy"],
+    "themes": ["Policymaking", "Partisan Politics", "Compromise"]
+  },
+  {
+    "label": "Sam's Unexpected Assignment",
+    "description": "Sam is unexpectedly tasked by Bartlet to write a birthday message for the Assistant Secretary of Transportation, which leads to complications with his plans to attend the opera with Mallory.",
+    "characters": ["Sam", "Mallory", "Leo", "Bartlet"],
+    "themes": ["Bartlet's Management Style", "Relationships"]
+  },
+  {
+    "label": "The Cabinet Meeting Fallout",
+    "description": "Rumors circulate about a confrontation between Bartlet and Hoynes during a cabinet meeting, leading to tensions and a confrontation between the two.",
+    "characters": ["Bartlet", "Hoynes", "C.J.", "Danny"],
+    "themes": ["Intra-Administration Dynamics", "Media Relations"]
+  }
+]

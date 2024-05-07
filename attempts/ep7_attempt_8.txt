@@ -1,0 +1,80 @@
+Here is the JSON response with the extracted story arcs from the given episode:
+
+{
+  "story_arcs": [
+    {
+      "label": "Hurricane Sarah",
+      "description": "A powerful hurricane named Sarah is heading towards Georgia and the Carolinas, and the White House is preparing for its impact.",
+      "characters": [
+        "Josh",
+        "C.J."
+      ],
+      "themes": [
+        "Natural disaster",
+        "Emergency response"
+      ]
+    },
+    {
+      "label": "Teamsters strike",
+      "description": "The Teamsters union is threatening to go on strike at midnight, which will disrupt the state dinner the White House is hosting.",
+      "characters": [
+        "Leo",
+        "Bartlet"
+      ],
+      "themes": [
+        "Labor relations",
+        "Political negotiation"
+      ]
+    },
+    {
+      "label": "Standoff in McClane, Idaho",
+      "description": "The government is planning a siege on a group of armed survivalists holed up in a farmhouse in McClane, Idaho, while the White House is hosting a state dinner.",
+      "characters": [
+        "Toby",
+        "Mandy"
+      ],
+      "themes": [
+        "Civil liberties",
+        "Use of force"
+      ]
+    },
+    {
+      "label": "Diplomatic tensions with Indonesia",
+      "description": "The White House is hosting the President of Indonesia for a state dinner, but there are tensions around the diplomatic toast that Toby wrote.",
+      "characters": [
+        "Toby",
+        "Bartlet",
+        "Bambang"
+      ],
+      "themes": [
+        "International relations",
+        "Diplomacy"
+      ]
+    },
+    {
+      "label": "Sam's personal life",
+      "description": "Sam is uncomfortable with his acquaintance Laurie attending the state dinner with a wealthy donor, Carl Everett.",
+      "characters": [
+        "Sam",
+        "Laurie"
+      ],
+      "themes": [
+        "Personal ethics",
+        "Relationships"
+      ]
+    },
+    {
+      "label": "Bartlet's leadership in a crisis",
+      "description": "Bartlet takes charge in responding to the various crises facing the White House, including the hurricane, the labor dispute, and the standoff in Idaho.",
+      "characters": [
+        "Bartlet",
+        "Abbey",
+        "Leo"
+      ],
+      "themes": [
+        "Executive power",
+        "Crisis management"
+      ]
+    }
+  ]
+}

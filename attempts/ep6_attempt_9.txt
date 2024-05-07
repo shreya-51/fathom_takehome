@@ -1,0 +1,50 @@
+Here is the story arcs extracted from the episode:
+
+{
+  "story_arcs": [
+    {
+      "label": "The Census Debate",
+      "description": "The White House staff debates the issue of using sampling data versus a traditional head count for the 2000 Census. This becomes a key political battle with Congress.",
+      "characters": [
+        "Toby Ziegler",
+        "Josh Lyman",
+        "Mandy Hampton",
+        "Sam Seaborn",
+        "Congressmen Gladman, Skinner, and Willis"
+      ],
+      "themes": [
+        "Constitutional interpretation",
+        "Partisan politics",
+        "Government efficiency"
+      ]
+    },
+    {
+      "label": "Leo's Marital Troubles",
+      "description": "Leo reveals to the President that his wife Jenny is asking for a divorce, which troubles Bartlet as he sees Leo as family.",
+      "characters": [
+        "Leo McGarry",
+        "President Bartlet"
+      ],
+      "themes": [
+        "Marriage and family",
+        "Loyalty and friendship"
+      ]
+    },
+    {
+      "label": "Zoey's Night Out",
+      "description": "Zoey goes out to a bar with her friends, leading to a confrontation that highlights the President's concerns about her safety as the First Daughter.",
+      "characters": [
+        "Zoey Bartlet",
+        "President Bartlet",
+        "Charlie Young",
+        "Josh Lyman",
+        "Sam Seaborn"
+      ],
+      "themes": [
+        "Parental protection",
+        "Secret Service security",
+        "Coming of age"
+      ]
+    }
+  ]
+}

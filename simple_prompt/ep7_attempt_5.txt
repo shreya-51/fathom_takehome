@@ -1,0 +1,25 @@
+Here are the key story arcs I can extract from the script:
+
+1. Hurricane Sarah:
+   - Label: Hurricane Sarah
+   - Description: A powerful hurricane that is heading towards Georgia and the Carolinas, requiring federal disaster relief efforts.
+   - Characters: Josh, C.J., Leo
+   - Themes: Natural disaster, emergency response, government preparedness
+
+2. Teamsters Strike:
+   - Label: Teamsters Strike
+   - Description: A labor dispute between the Teamsters union and management that threatens to cripple the country, requiring the President's intervention.
+   - Characters: Leo, Josh, Toby, Sam
+   - Themes: Labor relations, government intervention, political negotiation
+
+3. Survivalist Standoff:
+   - Label: Survivalist Standoff
+   - Description: A standoff between federal law enforcement and a group of armed survivalists in Idaho, with hostages involved, creating a PR crisis for the administration.
+   - Characters: Toby, Mandy, Josh
+   - Themes: Civil liberties, government power, public perception
+
+4. State Dinner Complications:
+   - Label: State Dinner Complications
+   - Description: The administration faces various logistical and diplomatic challenges in hosting a state dinner for the President of Indonesia, including language barriers and political tensions.
+   - Characters: Josh, Toby, Sam, Donna
+   - Themes: International relations, protocol, communication

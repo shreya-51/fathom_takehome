@@ -1,0 +1,40 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The President's Interest in National Parks",
+    "description": "Bartlet reveals his passion for national parks and tries to educate Josh about them, leading to a late-night discussion about Yosemite and other parks.",
+    "characters": ["Bartlet", "Josh"],
+    "themes": ["Bartlet's Interests", "Education"]
+  },
+  {
+    "label": "Leo's Relationship with Mallory",
+    "description": "Leo and his daughter Mallory have a tense conversation about his work and personal life, but they eventually reconcile and plan to have coffee together.",
+    "characters": ["Leo", "Mallory"],
+    "themes": ["Family Relationships", "Work-Life Balance"]
+  },
+  {
+    "label": "The Banking Bill and the Land-Use Rider",
+    "description": "The White House staff, including Toby, Josh, and Sam, struggle to find a way to pass the Banking Bill without accepting the land-use rider attached by Broderick and Eaton.",
+    "characters": ["Bartlet", "Toby", "Josh", "Sam"],
+    "themes": ["Legislation", "Compromise", "Lobbying"]
+  },
+  {
+    "label": "Danny Concannon's Pursuit of a Story",
+    "description": "Danny Concannon tries to get information about a dispute that occurred during the cabinet meeting, leading C.J. to make a deal with him to prevent it from becoming a story.",
+    "characters": ["C.J.", "Danny Concannon", "Hoynes"],
+    "themes": ["Media Relations", "Transparency"]
+  },
+  {
+    "label": "Sam's Birthday Message Assignment",
+    "description": "Sam is tasked by the President to write a birthday message for the Assistant Secretary of Transportation, which leads to a humorous interaction with Mallory.",
+    "characters": ["Sam", "Bartlet", "Mallory", "Leo"],
+    "themes": ["Bureaucracy", "Relationships"]
+  },
+  {
+    "label": "Hoynes and Bartlet's Relationship",
+    "description": "Hoynes confronts Bartlet about the tension in their relationship, and Bartlet explains his reasons for the way he has treated Hoynes.",
+    "characters": ["Bartlet", "Hoynes"],
+    "themes": ["Political Relationships", "Leadership"]
+  }
+]

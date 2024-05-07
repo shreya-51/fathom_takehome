@@ -1,0 +1,34 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "Nomination of Supreme Court Justice",
+    "description": "The White House staff works to nominate and confirm a new Supreme Court Justice, facing challenges along the way.",
+    "characters": ["President Bartlet", "Josh", "Toby", "Sam", "C.J.", "Mandy", "Leo"],
+    "themes": ["politics", "law", "ethics", "privacy rights"]
+  },
+  {
+    "label": "Allegations of Drug Use in the White House",
+    "description": "Congressman Lillienfield makes accusations that White House staffers regularly use illegal drugs, causing a crisis for the administration.",
+    "characters": ["Josh", "Toby", "Mandy", "Leo"],
+    "themes": ["scandal", "ethics", "drug use"]
+  },
+  {
+    "label": "Bartlet's Consideration of Mendoza",
+    "description": "President Bartlet reconsiders his initial Supreme Court nominee, Judge Mendoza, and ultimately decides to nominate him instead.",
+    "characters": ["President Bartlet", "Toby", "Sam", "Mendoza"],
+    "themes": ["diversity", "judicial philosophy", "politics"]
+  },
+  {
+    "label": "Leo's Past Struggles with Addiction",
+    "description": "Leo's past struggles with substance abuse are threatened to be exposed by Congressman Lillienfield's allegations.",
+    "characters": ["Leo", "Josh"],
+    "themes": ["addiction", "ethics", "redemption"]
+  },
+  {
+    "label": "C.J. and Danny's Relationship",
+    "description": "C.J. and reporter Danny Concannon continue to navigate their professional and personal relationship.",
+    "characters": ["C.J.", "Danny"],
+    "themes": ["romance", "media relations"]
+  }
+]

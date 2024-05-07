@@ -1,0 +1,21 @@
+Here are the key story arcs I can extract from the script:
+
+1. Label: Hurricane Sarah
+   Description: A powerful hurricane that is heading towards Georgia and the Carolinas, forcing the evacuation of a naval fleet.
+   Characters: Josh, C.J., Donna
+   Themes: Natural disaster, emergency response, government preparedness
+
+2. Label: Teamsters Strike
+   Description: A looming strike by the Teamsters union that threatens to disrupt the state dinner.
+   Characters: Leo, Josh, Toby, Sam
+   Themes: Labor relations, political negotiation, economic impact
+
+3. Label: Hostage Situation in Idaho
+   Description: A standoff between federal authorities and a group of armed survivalists holding hostages, which becomes a PR crisis for the administration.
+   Characters: Toby, Mandy, Josh
+   Themes: Domestic terrorism, civil liberties, government use of force
+
+4. Label: Diplomatic Dinner
+   Description: The state dinner for the President of Indonesia, which is complicated by language barriers and political tensions.
+   Characters: Bartlet, Siguto, Toby, Josh, Sam
+   Themes: International relations, cultural differences, political protocol

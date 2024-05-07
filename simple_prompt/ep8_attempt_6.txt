@@ -1,0 +1,34 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The President's National Park Passion",
+    "description": "Bartlet reveals his deep fascination with national parks and tries to share his knowledge with his staff, leading to a late-night discussion with Josh about Yellowstone and other parks.",
+    "characters": ["Bartlet", "Josh"],
+    "themes": ["Bartlet's Interests", "Relationship Between Bartlet and Staff"]
+  },
+  {
+    "label": "Leo and Mallory's Strained Relationship",
+    "description": "Leo and his daughter Mallory have a tense conversation about his work and her feelings, which is complicated by Leo's request for Sam to write a birthday message for the Assistant Transportation Secretary.",
+    "characters": ["Leo", "Mallory", "Sam"],
+    "themes": ["Family Dynamics", "Work-Life Balance"]
+  },
+  {
+    "label": "The Banking Bill Controversy",
+    "description": "The White House faces a challenge when a land-use rider is attached to the Banking Bill, pitting the President's desire to pass the bill against his staff's concerns about the rider. This leads to debates and negotiations within the administration.",
+    "characters": ["Bartlet", "Josh", "Toby", "Mandy", "Hoynes"],
+    "themes": ["Policymaking", "Partisan Politics", "Compromise"]
+  },
+  {
+    "label": "Danny Concannon's Pursuit of a Story",
+    "description": "Danny Concannon tries to uncover a story about a disagreement between Bartlet and Hoynes at a cabinet meeting, leading C.J. to negotiate with him to prevent the story from becoming public.",
+    "characters": ["Danny Concannon", "C.J.", "Hoynes"],
+    "themes": ["Media-White House Dynamics", "Damage Control"]
+  },
+  {
+    "label": "Sam's Unexpected Assignment",
+    "description": "Sam is tasked by Bartlet to write a birthday message for the Assistant Transportation Secretary, which leads to complications with his plans to attend the opera with Mallory.",
+    "characters": ["Sam", "Mallory", "Leo", "Bartlet"],
+    "themes": ["Bartlet's Management Style", "Relationship Between Sam and Mallory"]
+  }
+]

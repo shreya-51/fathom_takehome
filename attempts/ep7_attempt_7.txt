@@ -1,0 +1,71 @@
+Here is the JSON response with the extracted story arcs from the episode:
+
+{
+  "story_arcs": [
+    {
+      "label": "Hurricane Sarah",
+      "description": "A powerful hurricane is heading towards Georgia and the Carolinas, requiring federal disaster relief efforts.",
+      "characters": [
+        "Josh",
+        "C.J."
+      ],
+      "themes": [
+        "Natural disaster",
+        "Federal response"
+      ]
+    },
+    {
+      "label": "Teamsters strike",
+      "description": "The Teamsters union is threatening to strike, which would cripple the country's transportation system.",
+      "characters": [
+        "Leo",
+        "Russo",
+        "Little"
+      ],
+      "themes": [
+        "Labor dispute",
+        "Presidential intervention"
+      ]
+    },
+    {
+      "label": "Standoff in McClane, Idaho",
+      "description": "Federal authorities are in a standoff with a group of armed survivalists, including children, in a farmhouse in Idaho.",
+      "characters": [
+        "Toby",
+        "Mandy",
+        "Josh"
+      ],
+      "themes": [
+        "Government overreach",
+        "Use of force"
+      ]
+    },
+    {
+      "label": "State dinner for Indonesian President",
+      "description": "The White House is hosting a state dinner for the President of Indonesia, which is complicated by the other crises.",
+      "characters": [
+        "Bartlet",
+        "Siguto",
+        "Toby",
+        "Josh"
+      ],
+      "themes": [
+        "Diplomacy",
+        "Cultural differences"
+      ]
+    },
+    {
+      "label": "Carrier group in hurricane's path",
+      "description": "A U.S. Navy carrier group is trapped in the path of the powerful Hurricane Sarah, putting the lives of thousands of sailors at risk.",
+      "characters": [
+        "Bartlet",
+        "Leo",
+        "C.J."
+      ],
+      "themes": [
+        "Military readiness",
+        "Presidential decision-making"
+      ]
+    }
+  ]
+}

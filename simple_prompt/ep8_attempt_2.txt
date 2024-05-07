@@ -1,0 +1,34 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The President's Interest in National Parks",
+    "description": "Bartlet reveals his passion for national parks and tries to share his knowledge with Josh, who finds it a bit nerdy.",
+    "characters": ["Bartlet", "Josh"],
+    "themes": ["Bartlet's Interests", "Relationship Between Bartlet and Josh"]
+  },
+  {
+    "label": "Leo's Relationship with Mallory",
+    "description": "Leo and his daughter Mallory have a strained relationship, which comes to a head when Mallory is upset that Leo gave Sam a task to write a birthday message for the Assistant Transportation Secretary.",
+    "characters": ["Leo", "Mallory"],
+    "themes": ["Family Relationships", "Work-Life Balance"]
+  },
+  {
+    "label": "The Banking Bill and the Land-Use Rider",
+    "description": "The White House team struggles to deal with a land-use rider attached to the Banking Bill, which threatens to undermine the President's victory. They eventually find a creative solution using the Antiquities Act.",
+    "characters": ["Bartlet", "Josh", "Toby", "Sam"],
+    "themes": ["Legislation and Policymaking", "Negotiation and Compromise"]
+  },
+  {
+    "label": "The Cabinet Meeting Incident",
+    "description": "There are rumors about a confrontation between Bartlet and Hoynes during a cabinet meeting, which C.J. and others try to manage and contain.",
+    "characters": ["Bartlet", "Hoynes", "C.J.", "Danny"],
+    "themes": ["White House Dynamics", "Transparency and Accountability"]
+  },
+  {
+    "label": "Sam's Overqualification",
+    "description": "Sam is tasked with writing a birthday message for the Assistant Transportation Secretary, which he takes very seriously despite it being a relatively minor task.",
+    "characters": ["Sam", "Bartlet", "Leo", "Mallory"],
+    "themes": ["Bureaucracy and Hierarchy", "Dedication to Work"]
+  }
+]

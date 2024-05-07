@@ -1,0 +1,40 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "Bartlet's Speech",
+    "description": "Bartlet delivers an inspiring speech at a dinner, rallying the crowd and emphasizing the importance of civic engagement.",
+    "characters": ["Bartlet", "Leo", "Josh", "Toby", "Sam", "C.J."],
+    "themes": ["Practical Idealism", "Civic Duty"]
+  },
+  {
+    "label": "Whip Count Crisis",
+    "description": "The administration loses 5 crucial votes on a key bill, leading to a frantic effort to regain the support of wavering Congressmen.",
+    "characters": ["Leo", "Josh", "Toby", "Sam", "C.J.", "Mandy"],
+    "themes": ["Legislative Process", "Negotiation", "Compromise"]
+  },
+  {
+    "label": "Toby's Stock Windfall",
+    "description": "Toby's unexpected stock gains raise ethical concerns and threaten to become a political liability for the administration.",
+    "characters": ["Toby", "Sam", "C.J."],
+    "themes": ["Ethics", "Perception Management", "Transparency"]
+  },
+  {
+    "label": "Leo's Marital Troubles",
+    "description": "Leo's marriage to Jenny is strained due to his intense focus on his work, leading to a separation.",
+    "characters": ["Leo", "Jenny"],
+    "themes": ["Work-Life Balance", "Relationships", "Sacrifice"]
+  },
+  {
+    "label": "Bartlet's Medication Mishap",
+    "description": "Bartlet accidentally takes a combination of medications, leading to a comical and concerning incident in the Oval Office.",
+    "characters": ["Bartlet", "Leo", "Toby", "Sam", "C.J.", "Charlie"],
+    "themes": ["Vulnerability", "Humor", "Teamwork"]
+  },
+  {
+    "label": "Hoynes' Political Maneuvering",
+    "description": "The Vice President steps in to secure the crucial vote, gaining political capital at the expense of the President's team.",
+    "characters": ["Hoynes", "Tillinghouse", "Josh"],
+    "themes": ["Power Dynamics", "Political Ambition", "Rivalry"]
+  }
+]

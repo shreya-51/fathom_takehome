@@ -1,0 +1,73 @@
+Here is the JSON response with the extracted story arcs:
+
+{
+  "story_arcs": [
+    {
+      "label": "Honoring a Forgotten Veteran",
+      "description": "Toby Ziegler discovers the body of a homeless Korean War veteran and arranges a military funeral for him, despite his initial discomfort and uncertainty about the situation.",
+      "characters": [
+        "Toby Ziegler",
+        "Walter Hufnagle",
+        "George Hufnagle"
+      ],
+      "themes": [
+        "Honoring military service",
+        "Homelessness and neglect of veterans",
+        "Toby's personal struggle with the situation"
+      ]
+    },
+    {
+      "label": "Preparing for the White House Holiday Celebration",
+      "description": "Mandy, C.J., Toby, and Sam discuss the details and logistics of the White House's holiday celebration, including the choice of Santa hats versus Dickensian costumes for the carolers.",
+      "characters": [
+        "Mandy",
+        "C.J.",
+        "Toby",
+        "Sam"
+      ],
+      "themes": [
+        "White House holiday traditions",
+        "Coordinating the holiday event"
+      ]
+    },
+    {
+      "label": "Dealing with Potential Political Scandals",
+      "description": "Josh and Sam attempt to get information from a high-end escort, Laurie, to preemptively address a potential scandal involving Leo's past substance abuse issues.",
+      "characters": [
+        "Josh Lyman",
+        "Sam Seaborn",
+        "Laurie"
+      ],
+      "themes": [
+        "Protecting senior administration officials",
+        "Ethical dilemmas in political strategy"
+      ]
+    },
+    {
+      "label": "Debating Hate Crimes Legislation",
+      "description": "C.J. and Leo discuss the administration's approach to hate crimes legislation in the wake of a brutal attack on a gay teenager.",
+      "characters": [
+        "C.J.",
+        "Leo"
+      ],
+      "themes": [
+        "Addressing hate crimes and discrimination",
+        "Balancing policy and politics"
+      ]
+    },
+    {
+      "label": "Exploring Personal Connections and Relationships",
+      "description": "Josh and Donna share a heartfelt moment as Josh gives Donna a thoughtful Christmas gift, while C.J. agrees to a "business dinner" with reporter Danny Concannon.",
+      "characters": [
+        "Josh Lyman",
+        "Donna",
+        "C.J.",
+        "Danny Concannon"
+      ],
+      "themes": [
+        "Developing personal relationships in the workplace",
+        "Navigating professional boundaries"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+Here is the story arc summary in the requested JSON format:
+
+{
+  "label": "Tragedy Strikes the White House",
+  "description": "The White House is rocked by the tragic death of Dr. Morris Tolliver, the President's physician, in a plane explosion. The President is devastated and vows to retaliate against those responsible.",
+  "characters": [
+    "President Bartlet",
+    "Leo McGarry"
+  ],
+  "themes": [
+    "Tragedy",
+    "Grief",
+    "Retaliation",
+    "National Security"
+  ]
+}

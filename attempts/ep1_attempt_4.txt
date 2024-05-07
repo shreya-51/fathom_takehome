@@ -1,0 +1,62 @@
+Here is the story arc analysis in JSON format:
+
+{
+  "story_arcs": [
+    {
+      "label": "The President's Bicycle Accident",
+      "description": "The President is injured in a bicycle accident, which becomes a major news story that the White House staff must manage.",
+      "characters": [
+        "President Bartlet",
+        "Leo McGarry",
+        "C.J. Cregg"
+      ],
+      "themes": [
+        "Leadership",
+        "Public Relations",
+        "Responsibility"
+      ]
+    },
+    {
+      "label": "The Cuban Refugee Crisis",
+      "description": "A large group of Cuban refugees attempt to flee to the United States, creating a diplomatic and humanitarian crisis that the White House must address.",
+      "characters": [
+        "Josh Lyman",
+        "Sam Seaborn",
+        "Toby Ziegler"
+      ],
+      "themes": [
+        "Immigration",
+        "Foreign Policy",
+        "Compassion"
+      ]
+    },
+    {
+      "label": "Josh Lyman's Controversial TV Appearance",
+      "description": "Josh Lyman makes controversial remarks on a TV talk show, angering religious conservatives and putting his job at risk.",
+      "characters": [
+        "Josh Lyman",
+        "Toby Ziegler",
+        "Mary Marsh",
+        "Al Caldwell"
+      ],
+      "themes": [
+        "Political Discourse",
+        "Religious Beliefs",
+        "Job Security"
+      ]
+    },
+    {
+      "label": "Sam Seaborn's Personal Dilemma",
+      "description": "Sam Seaborn accidentally switches pagers with a woman who turns out to be a high-priced escort, creating a personal crisis for him.",
+      "characters": [
+        "Sam Seaborn",
+        "Laurie"
+      ],
+      "themes": [
+        "Ethics",
+        "Relationships",
+        "Discretion"
+      ]
+    }
+  ]
+}

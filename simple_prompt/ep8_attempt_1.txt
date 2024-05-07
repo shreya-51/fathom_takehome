@@ -1,0 +1,34 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The President's Interest in National Parks",
+    "description": "Bartlet reveals his passion for national parks and tries to share his knowledge with Josh, who is eager to go home. This leads to a discussion about Bartlet's late-night conversations with Josh.",
+    "characters": ["Bartlet", "Josh"],
+    "themes": ["Bartlet's Interests", "Relationship Between Bartlet and Josh"]
+  },
+  {
+    "label": "Leo's Relationship with Mallory",
+    "description": "Leo has breakfast with his daughter Mallory, and they discuss his relationship with his ex-wife. Mallory is upset with Leo, and the President gets involved to try to mend their relationship.",
+    "characters": ["Leo", "Mallory", "Bartlet"],
+    "themes": ["Family Relationships", "Leo's Past"]
+  },
+  {
+    "label": "The Banking Bill and the Land-Use Rider",
+    "description": "The White House team, including Toby, Josh, and Sam, work to pass the Banking Bill, but face a challenge when a land-use rider is attached by Broderick and Eaton. This leads to a conflict within the administration about how to handle the situation.",
+    "characters": ["Toby", "Josh", "Sam", "Bartlet", "Hoynes", "Mandy"],
+    "themes": ["Legislation and Policymaking", "Interagency Dynamics", "Political Maneuvering"]
+  },
+  {
+    "label": "Danny Concannon's Pursuit of a Story",
+    "description": "Danny Concannon tries to get information about a story involving the cabinet meeting, and C.J. works to keep him from pursuing it, eventually making a deal with him.",
+    "characters": ["C.J.", "Danny Concannon", "Hoynes"],
+    "themes": ["Media-White House Dynamics", "Damage Control"]
+  },
+  {
+    "label": "Sam's Birthday Message Assignment",
+    "description": "Sam is tasked by the President to write a birthday message for the Assistant Secretary of Transportation, which leads to complications with his plans to attend the opera with Mallory.",
+    "characters": ["Sam", "Mallory", "Leo", "Bartlet"],
+    "themes": ["Sam's Capabilities", "Relationships and Obligations"]
+  }
+]

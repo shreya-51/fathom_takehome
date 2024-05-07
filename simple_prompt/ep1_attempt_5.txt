@@ -1,0 +1,28 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "Josh's Relationship with the Christian Right",
+    "description": "Josh's confrontational approach with the Christian Right, particularly Mary Marsh and John Van Dyke, threatens his job and the administration's relationship with this important political constituency.",
+    "characters": ["Josh Lyman", "Mary Marsh", "John Van Dyke", "Al Caldwell"],
+    "themes": ["political conflict", "religious values", "job security"]
+  },
+  {
+    "label": "The Cuban Refugee Crisis",
+    "description": "The administration grapples with how to handle the influx of Cuban refugees attempting to reach the United States, balancing humanitarian concerns with political realities.",
+    "characters": ["Josh Lyman", "Sam Seaborn", "Toby Ziegler", "Leo McGarry"],
+    "themes": ["immigration", "foreign policy", "political pragmatism"]
+  },
+  {
+    "label": "Sam's Personal Entanglement",
+    "description": "Sam Seaborn accidentally switches pagers with a high-end escort, complicating his personal life and professional responsibilities.",
+    "characters": ["Sam Seaborn", "Laurie"],
+    "themes": ["personal ethics", "work-life balance"]
+  },
+  {
+    "label": "President Bartlet's Family and Faith",
+    "description": "President Bartlet's personal life and religious beliefs are tested when his granddaughter's views on abortion provoke a threatening response from a radical Christian group.",
+    "characters": ["President Bartlet", "Mrs. Landingham", "Annie Bartlet"],
+    "themes": ["family", "religion", "moral leadership"]
+  }
+]

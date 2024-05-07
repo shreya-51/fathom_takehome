@@ -1,0 +1,16 @@
+Here are the story arcs I can extract from the script:
+
+1. Label: The President's Basketball Game
+   Description: The President plays a basketball game with his staff, including Toby, Josh, and Charlie. He brings in a professional basketball player, Rodney Grant, to help his team, which leads to a confrontation with Toby about the President's tendency to cheat.
+   Characters: Bartlet, Toby, Josh, Charlie, Rodney Grant
+   Themes: Competitiveness, Cheating, Friendship
+
+2. Label: The National Security Council Card
+   Description: Josh is given a card by an NSC staffer with instructions on what to do in the event of a nuclear attack. He is troubled that he was the only one given the card, and not his colleagues like Toby, C.J., and Sam.
+   Characters: Josh, NSC Staffer
+   Themes: National Security, Isolation, Mortality
+
+3. Label: The President's Chili Night
+   Description: The President hosts a chili night for the White House staff, including his daughter Zoey. It becomes an opportunity for the President to reflect on the strengths and contributions of his staff, and to rally them around a shared sense of purpose.
+   Characters: Bartlet, Zoey, Josh, Charlie, White House Staff
+   Themes: Camaraderie, Appreciation, Public Service

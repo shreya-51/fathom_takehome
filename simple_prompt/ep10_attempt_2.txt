@@ -1,0 +1,34 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The White House Holiday Celebration",
+    "description": "The White House staff is preparing for the annual holiday celebration, including decorating the lobby, selecting performers, and coordinating the President's role.",
+    "characters": ["Mandy", "C.J.", "Toby", "Sam"],
+    "themes": ["holiday traditions", "White House operations"]
+  },
+  {
+    "label": "The Death of a Homeless Veteran",
+    "description": "Toby discovers that a homeless Korean War veteran, Walter Hufnagle, died of exposure near the Korean War Memorial. Toby takes it upon himself to arrange a proper military funeral for the veteran.",
+    "characters": ["Toby", "George Hufnagle", "Homeless Man"],
+    "themes": ["homelessness", "veteran affairs", "compassion"]
+  },
+  {
+    "label": "Lillienfield's Threat and Leo's Past",
+    "description": "Josh and Sam try to get information from a high-end escort to preempt a potential scandal involving Leo's past drug and alcohol abuse, which Lillienfield is threatening to expose.",
+    "characters": ["Josh", "Sam", "Laurie", "Leo"],
+    "themes": ["political scandal", "ethics", "loyalty"]
+  },
+  {
+    "label": "Hate Crimes Legislation",
+    "description": "C.J. advocates for stronger hate crimes legislation in the wake of a brutal attack on a gay teenager, but Leo cautions her to be more measured in her approach.",
+    "characters": ["C.J.", "Leo", "Danny"],
+    "themes": ["civil rights", "social justice", "political strategy"]
+  },
+  {
+    "label": "Personal Connections and the Holiday Spirit",
+    "description": "The staff members share personal stories and moments of connection, including Donna receiving a thoughtful gift from Josh, Mrs. Landingham reflecting on the loss of her sons, and Toby and Mrs. Landingham attending the veteran's funeral.",
+    "characters": ["Donna", "Josh", "Mrs. Landingham", "Toby"],
+    "themes": ["relationships", "grief", "holiday spirit"]
+  }
+]

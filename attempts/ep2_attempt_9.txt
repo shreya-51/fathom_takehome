@@ -1,0 +1,16 @@
+Here is the story arc summary in JSON format:
+
+{
+  "label": "Tragedy and Retaliation",
+  "description": "The episode explores the aftermath of a tragic attack that kills President Bartlet's personal physician, Dr. Morris Tolliver. Bartlet is devastated by the loss and vows to retaliate against those responsible, showcasing his steely resolve in the face of adversity.",
+  "characters": [
+    "President Bartlet",
+    "Leo McGarry"
+  ],
+  "themes": [
+    "Grief and loss",
+    "Abuse of power",
+    "Geopolitical tensions",
+    "Moral dilemmas in leadership"
+  ]
+}

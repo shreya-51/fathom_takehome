@@ -1,0 +1,28 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The White House Poker Game",
+    "description": "The President and his staff gather for a late-night poker game, where they engage in witty banter and intellectual discussions while playing cards.",
+    "characters": ["President Bartlet", "Leo McGarry", "C.J. Cregg", "Mandy Hampton", "Sam Seaborn", "Josh Lyman", "Toby Ziegler"],
+    "themes": ["camaraderie", "intellectual discourse", "political intrigue"]
+  },
+  {
+    "label": "The Census Debate",
+    "description": "The White House staff negotiates with members of Congress over the use of sampling data in the 2000 Census, with Toby making a compelling argument against the proposed amendment.",
+    "characters": ["Toby Ziegler", "Mandy Hampton", "Congressmen Gladman, Skinner, and Willis"],
+    "themes": ["constitutional interpretation", "political compromise", "data accuracy"]
+  },
+  {
+    "label": "The First Family's Security Concerns",
+    "description": "President Bartlet and Leo discuss a security breach at the White House, which was targeted at the President's daughter, Zoey, leading to increased protection for the First Family.",
+    "characters": ["President Bartlet", "Leo McGarry", "Zoey Bartlet", "Ron Butterfield"],
+    "themes": ["presidential family dynamics", "national security", "parental protection"]
+  },
+  {
+    "label": "The White House Staff's Night Out",
+    "description": "Josh, Sam, C.J., and the President's daughters Zoey and Mallory go out for a night of drinks and socializing, which leads to a confrontation with some aggressive bar patrons and the involvement of the Secret Service.",
+    "characters": ["Josh Lyman", "Sam Seaborn", "C.J. Cregg", "Zoey Bartlet", "Mallory O'Brien", "Charlie Young"],
+    "themes": ["work-life balance", "presidential family dynamics", "interpersonal relationships"]
+  }
+]

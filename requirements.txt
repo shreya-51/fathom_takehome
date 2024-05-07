@@ -1,0 +1,6 @@
+numpy
+matplotlib
+scikit-learn
+sentence-transformers
+anthropic
+ipykernel

@@ -1,0 +1,34 @@
+Here are the story arcs as a list of JSON objects:
+
+[
+  {
+    "label": "The White House Poker Game",
+    "description": "The President and his staff gather for a late-night poker game, where they engage in witty banter and intellectual discussions while playing cards.",
+    "characters": ["President Bartlet", "Leo McGarry", "C.J. Cregg", "Mandy Hampton", "Sam Seaborn", "Josh Lyman", "Toby Ziegler"],
+    "themes": ["camaraderie", "intellectual discourse", "political intrigue"]
+  },
+  {
+    "label": "The Census Debate",
+    "description": "The White House team negotiates with a group of Congressmen to drop an amendment that would prohibit the use of sampling data in the 2000 Census, a move that could significantly impact the accuracy of the count.",
+    "characters": ["Toby Ziegler", "Mandy Hampton", "Congressmen Gladman, Skinner, and Willis"],
+    "themes": ["constitutional interpretation", "political compromise", "data accuracy"]
+  },
+  {
+    "label": "The First Family's Security Concerns",
+    "description": "A security breach at the White House raises concerns about the safety of the President's daughter, Zoey, leading to a tense discussion between Bartlet and his daughter about the need for increased protection.",
+    "characters": ["President Bartlet", "Zoey Bartlet", "Ron Butterfield"],
+    "themes": ["presidential family dynamics", "national security", "personal freedom"]
+  },
+  {
+    "label": "The White House Staff's Night Out",
+    "description": "Josh, Sam, and Charlie take Zoey and Mallory out for a night of drinks and camaraderie, but the evening takes an unexpected turn when Zoey is confronted by a group of men at the bar.",
+    "characters": ["Josh Lyman", "Sam Seaborn", "Charlie Young", "Zoey Bartlet", "Mallory O'Brien"],
+    "themes": ["work-life balance", "presidential family dynamics", "interpersonal relationships"]
+  },
+  {
+    "label": "Leo's Marital Troubles",
+    "description": "Leo confides in the President about his impending divorce from his wife, Jenny, causing Bartlet to urge him to fix the situation.",
+    "characters": ["Leo McGarry", "President Bartlet"],
+    "themes": ["personal life challenges", "marriage and family", "presidential-staff dynamics"]
+  }
+]

@@ -1,0 +1,56 @@
+Here is the JSON response with the extracted story arcs:
+
+{
+  "story_arcs": [
+    {
+      "label": "Gun Control Legislation",
+      "description": "The White House is trying to pass a gun control bill (802) that would restrict the sale of certain weapons. They are struggling to get the necessary votes in Congress.",
+      "characters": [
+        "Bartlet",
+        "Leo",
+        "Josh",
+        "Toby",
+        "Sam",
+        "C.J.",
+        "Mandy",
+        "Katzenmoyer",
+        "O'Bannon",
+        "LeBrandt",
+        "Wick",
+        "Richardson",
+        "Hoynes"
+      ],
+      "themes": [
+        "Gun Control",
+        "Legislative Process",
+        "Political Maneuvering"
+      ]
+    },
+    {
+      "label": "Leo's Marital Issues",
+      "description": "Leo's wife, Jenny, is leaving him due to his constant focus on his work at the White House and neglect of their marriage.",
+      "characters": [
+        "Leo",
+        "Jenny"
+      ],
+      "themes": [
+        "Marriage",
+        "Work-Life Balance"
+      ]
+    },
+    {
+      "label": "Toby's Stock Controversy",
+      "description": "Toby is facing potential legal and PR issues due to a sudden increase in the value of a stock he owns, which may be connected to testimony he arranged for a friend to give to Congress.",
+      "characters": [
+        "Toby",
+        "Sam",
+        "C.J.",
+        "Bartlet"
+      ],
+      "themes": [
+        "Ethics",
+        "Perception Management"
+      ]
+    }
+  ]
+}

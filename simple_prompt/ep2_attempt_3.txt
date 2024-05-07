@@ -1,0 +1,25 @@
+Here are the story arcs from the script:
+
+1. Mandy's Unemployment:
+   - Label: Mandy's Unemployment
+   - Description: Mandy loses her client, Senator Lloyd Russell, and is left without a job. She struggles to find a new client and pay her bills.
+   - Characters: Mandy, Daisy
+   - Themes: Career, Unemployment, Financial Struggles
+
+2. Sam's Encounter with a Call Girl:
+   - Label: Sam's Encounter with a Call Girl
+   - Description: Sam accidentally sleeps with a call girl named Laurie and tries to befriend her, despite the ethical concerns raised by Josh and Toby.
+   - Characters: Sam, Josh, Toby, Laurie
+   - Themes: Ethics, Relationships, Morality
+
+3. Tensions Between the President and the Vice President:
+   - Label: Tensions Between the President and the Vice President
+   - Description: There are signs of tension and disagreement between President Bartlet and Vice President Hoynes, which comes to a head in a confrontation between Hoynes and Leo.
+   - Characters: President Bartlet, Vice President Hoynes, Leo
+   - Themes: Political Dynamics, Power Struggles, Party Unity
+
+4. The Tragedy of Morris Tolliver's Death:
+   - Label: The Tragedy of Morris Tolliver's Death
+   - Description: Morris Tolliver, the President's physician, is killed in a plane crash caused by a missile attack, which deeply affects the President.
+   - Characters: President Bartlet, Leo, Morris Tolliver
+   - Themes: Tragedy, Loss, National Security

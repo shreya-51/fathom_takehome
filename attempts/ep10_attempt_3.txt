@@ -1,0 +1,61 @@
+Here is the JSON response with the extracted story arcs:
+
+{
+  "story_arcs": [
+    {
+      "label": "Honoring a Forgotten Veteran",
+      "description": "Toby Ziegler discovers the body of a homeless Korean War veteran and arranges a military funeral for him, despite his initial discomfort and uncertainty about doing so.",
+      "characters": [
+        "Toby Ziegler",
+        "Walter Hufnagle",
+        "George Hufnagle"
+      ],
+      "themes": [
+        "Honoring military service",
+        "Homelessness and neglect of veterans",
+        "Toby's personal struggle with the situation"
+      ]
+    },
+    {
+      "label": "Potential Scandal Involving Leo",
+      "description": "Josh and Sam try to get information from a high-end escort to preemptively address a potential scandal involving Leo's past substance abuse issues.",
+      "characters": [
+        "Josh Lyman",
+        "Sam Seaborn",
+        "Leo McGarry",
+        "Laurie"
+      ],
+      "themes": [
+        "Abuse of power",
+        "Protecting a colleague",
+        "Ethical dilemmas in politics"
+      ]
+    },
+    {
+      "label": "Hate Crimes Legislation Debate",
+      "description": "The administration debates the merits of pursuing hate crimes legislation in the wake of a brutal attack on a gay teenager.",
+      "characters": [
+        "C.J. Cregg",
+        "Leo McGarry"
+      ],
+      "themes": [
+        "Civil rights",
+        "Balancing politics and principles",
+        "Addressing societal prejudices"
+      ]
+    },
+    {
+      "label": "Josh and Donna's Evolving Relationship",
+      "description": "Josh and Donna's relationship takes a more personal turn as Josh gives Donna a thoughtful Christmas gift.",
+      "characters": [
+        "Josh Lyman",
+        "Donna Moss"
+      ],
+      "themes": [
+        "Workplace romance",
+        "Emotional vulnerability",
+        "Gift-giving and appreciation"
+      ]
+    }
+  ]
+}
